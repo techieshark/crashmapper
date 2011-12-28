@@ -1,0 +1,3275 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Folder>
+<name>Bike/Ped Crash Locations</name>
+
+	<Placemark>
+		<name>ID: 238414</name>
+		<address>OAK ST and PACIFIC AVE, Forest Grove, OR</address>
+		<description>When: Fri, 1/17/1997 @ 8am 
+Where: unknown distance from (Center) of intersection of OAK ST &amp; PACIFIC AVE in Forest Grove
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-01-17T08:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 238700</name>
+		<address>TUALATIN VALLEY HY and 117TH AVE, Beaverton, OR</address>
+		<description>When: Tue, 2/4/1997 @ 5pm 
+Where: unknown distance from (Center) of intersection of TUALATIN VALLEY HY &amp; 117TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-02-04T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 238930</name>
+		<address>CORNELL RD and 112TH AVE, OR</address>
+		<description>When: Tue, 2/18/1997 @ 6am 
+Where: inside of (Center) of intersection of CORNELL RD &amp; 112TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-02-18T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 238968</name>
+		<address>MAIN ST and 19TH AVE, Forest Grove, OR</address>
+		<description>When: Wed, 2/19/1997 @ 12pm 
+Where: unknown distance from (Center) of intersection of MAIN ST &amp; 19TH AVE in Forest Grove
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-02-19T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 238977</name>
+		<address>MAIN ST and PACIFIC HY 99W, Tigard, OR</address>
+		<description>When: Thu, 2/20/1997 @ 9am 
+Where: unknown distance from (Center) of intersection of MAIN ST &amp; PACIFIC HY 99W in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-02-20T09:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 243858</name>
+		<address>CONCORD WAY and LIBERTY BELL DR, OR</address>
+		<description>When: Sun, 2/23/1997 @ 2pm 
+Where: inside of (Center) of intersection of CONCORD WAY &amp; LIBERTY BELL DR in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-02-23T14:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 239101</name>
+		<address>ECOLE AVE and JENKINS RD, OR</address>
+		<description>When: Thu, 2/27/1997 @ 6am 
+Where: inside of (Center) of intersection of ECOLE AVE &amp; JENKINS RD in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-02-27T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 239567</name>
+		<address>FOREST DR and HART RD, Beaverton, OR</address>
+		<description>When: Mon, 3/24/1997 @ 6pm 
+Where: inside of (Center) of intersection of FOREST DR &amp; HART RD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-03-24T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 240842</name>
+		<address>ALLEN BLVD and SB EX ALLEN BLVD C1, Beaverton, OR</address>
+		<description>When: Thu, 6/12/1997 @ 9am 
+Where: unknown distance from (Center) of intersection of ALLEN BLVD &amp; SB EX ALLEN BLVD C1 in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-06-12T09:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 241270</name>
+		<address>GARDEN HOME RD and MULTNOMAH BLVD, SW Portland, OR</address>
+		<description>When: Mon, 7/14/1997 @ 6pm 
+Where: inside of (Center) of intersection of GARDEN HOME RD &amp; MULTNOMAH BLVD in SW Portland
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-07-14T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 241308</name>
+		<address>TUALATIN VALLEY HY and SB EX TUAL-VLY HY, Beaverton, OR</address>
+		<description>When: Thu, 7/17/1997 @ 4pm 
+Where: unknown distance from (Center) of intersection of TUALATIN VALLEY HY &amp; SB EX TUAL-VLY HY in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-07-17T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 241463</name>
+		<address>BASELINE ST and 20TH AVE, Cornelius, OR</address>
+		<description>When: Tue, 7/29/1997 @ 4pm 
+Where: unknown distance from (Center) of intersection of BASELINE ST &amp; 20TH AVE in Cornelius
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-07-29T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 241495</name>
+		<address>CORNELL RD and TWIN OAKS DR, Beaverton, OR</address>
+		<description>When: Thu, 7/31/1997 @ 6pm 
+Where: inside of (Center) of intersection of CORNELL RD &amp; TWIN OAKS DR in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-07-31T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 241654</name>
+		<address>BROADWAY ST and HALL BLVD, Beaverton, OR</address>
+		<description>When: Sat, 8/9/1997 @ 1pm 
+Where: inside of (Center) of intersection of BROADWAY ST &amp; HALL BLVD in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-08-09T13:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 241657</name>
+		<address>BOONES FERRY RD and MARTINAZZI AVE, Tualatin, OR</address>
+		<description>When: Sat, 8/9/1997 @ 3pm 
+Where: unknown distance from (Center) of intersection of BOONES FERRY RD &amp; MARTINAZZI AVE in Tualatin
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-08-09T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 241818</name>
+		<address>BASELINE ST and 4TH AVE, Hillsboro, OR</address>
+		<description>When: Fri, 8/22/1997 @ 4pm 
+Where: unknown distance from (Center) of intersection of BASELINE ST &amp; 4TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-08-22T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 242027</name>
+		<address>CEDAR ST and 19TH AVE, Forest Grove, OR</address>
+		<description>When: Tue, 9/9/1997 @ 7am 
+Where: unknown distance from (Center) of intersection of CEDAR ST &amp; 19TH AVE in Forest Grove
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-09-09T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 242439</name>
+		<address>CYPRESS ST and 21ST AVE, Hillsboro, OR</address>
+		<description>When: Thu, 10/2/1997 @ 4pm 
+Where: inside of (Center) of intersection of CYPRESS ST &amp; 21ST AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-10-02T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 242483</name>
+		<address>MURRAY BLVD and WALKER RD, OR</address>
+		<description>When: Sat, 10/4/1997 @ 12pm 
+Where: inside of (Center) of intersection of MURRAY BLVD &amp; WALKER RD in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-10-04T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 242630</name>
+		<address>DAVIES RD and OLD SCHOLLS FERRY R, Beaverton, OR</address>
+		<description>When: Tue, 10/14/1997 @ 1pm 
+Where: inside of (Center) of intersection of DAVIES RD &amp; OLD SCHOLLS FERRY R in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-10-14T13:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 242898</name>
+		<address>HERMAN RD and TUALATIN RD, Tualatin, OR</address>
+		<description>When: Thu, 11/6/1997 @ 5am 
+Where: inside of (Southwest) of intersection of HERMAN RD &amp; TUALATIN RD in Tualatin
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-11-06T05:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 243035</name>
+		<address>DURHAM RD and 103RD AVE, Tigard, OR</address>
+		<description>When: Sun, 11/16/1997 @ 3pm 
+Where: inside of (Center) of intersection of DURHAM RD &amp; 103RD AVE in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-11-16T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 243313</name>
+		<address>HALL BLVD and 1ST ST, Beaverton, OR</address>
+		<description>When: Fri, 12/5/1997 @ 11am 
+Where: inside of (Center) of intersection of HALL BLVD &amp; 1ST ST in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1997-12-05T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 187923</name>
+		<address>LOMBARD AVE and 3RD ST, Beaverton, OR</address>
+		<description>When: Sat, 1/17/1998 @ 11pm 
+Where: inside of (Center) of intersection of LOMBARD AVE &amp; 3RD ST in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-01-17T23:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 188977</name>
+		<address>EBBERTS AVE and GARIBALDI ST, Hillsboro, OR</address>
+		<description>When: Sat, 3/14/1998 @ 2pm 
+Where: inside of (Center) of intersection of EBBERTS AVE &amp; GARIBALDI ST in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-03-14T14:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 189075</name>
+		<address>WALNUT ST and 112TH AVE, Tigard, OR</address>
+		<description>When: Fri, 3/20/1998 @ 4pm 
+Where: inside of (Center) of intersection of WALNUT ST &amp; 112TH AVE in Tigard
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-03-20T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 189088</name>
+		<address>CORNELL RD and SALTZMAN RD, OR</address>
+		<description>When: Sun, 3/22/1998 @ 11am 
+Where: inside of (Center) of intersection of CORNELL RD &amp; SALTZMAN RD in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-03-22T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 189582</name>
+		<address>NYBERG RD and SB EX NYBERG RD C4, Tualatin, OR</address>
+		<description>When: Fri, 4/17/1998 @ 6pm 
+Where: unknown distance from (Center) of intersection of NYBERG RD &amp; SB EX NYBERG RD C4 in Tualatin
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-04-17T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 190305</name>
+		<address>ALLEN BLVD and WILSON AVE, Beaverton, OR</address>
+		<description>When: Mon, 5/25/1998 @ 9am 
+Where: inside of (Center) of intersection of ALLEN BLVD &amp; WILSON AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-05-25T09:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 190490</name>
+		<address>DOGWOOD ST and 14TH AVE, Cornelius, OR</address>
+		<description>When: Mon, 6/1/1998 @ 3pm 
+Where: inside of (West) of intersection of DOGWOOD ST &amp; 14TH AVE in Cornelius
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-06-01T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 190617</name>
+		<address>ROSA RD and 185TH AVE, OR</address>
+		<description>When: Sat, 6/6/1998 @ 5pm 
+Where: inside of (Center) of intersection of ROSA RD &amp; 185TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-06-06T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 190562</name>
+		<address>BONNIE BRAE ST and MURRAY BLVD, Beaverton, OR</address>
+		<description>When: Tue, 6/9/1998 @ 8am 
+Where: inside of (Center) of intersection of BONNIE BRAE ST &amp; MURRAY BLVD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-06-09T08:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 190737</name>
+		<address>TUALATIN VALLEY HY and 139TH WAY, Beaverton, OR</address>
+		<description>When: Mon, 6/15/1998 @ 11pm 
+Where: unknown distance from (Center) of intersection of TUALATIN VALLEY HY &amp; 139TH WAY in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-06-15T23:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 190928</name>
+		<address>TUALATIN VALLEY HY and 239TH AVE, Hillsboro, OR</address>
+		<description>When: Wed, 6/24/1998 @ 7pm 
+Where: unknown distance from (Center) of intersection of TUALATIN VALLEY HY &amp; 239TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-06-24T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 190958</name>
+		<address>BASELINE RD and 185TH AVE, Hillsboro, OR</address>
+		<description>When: Fri, 6/26/1998 @ 3pm 
+Where: inside of (Center) of intersection of BASELINE RD &amp; 185TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-06-26T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 191013</name>
+		<address>GARDEN HOME RD and OLESON RD, SW Portland, OR</address>
+		<description>When: Mon, 6/29/1998 @ 7am 
+Where: inside of (Center) of intersection of GARDEN HOME RD &amp; OLESON RD in SW Portland
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-06-29T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 191023</name>
+		<address>WALNUT ST and WATKINS AVE, Tigard, OR</address>
+		<description>When: Mon, 6/29/1998 @ 12pm 
+Where: inside of (Center) of intersection of WALNUT ST &amp; WATKINS AVE in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-06-29T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 191279</name>
+		<address>BEAV-HILLSDALE HY and GRIFFITH DR, Beaverton, OR</address>
+		<description>When: Mon, 7/13/1998 @ 6pm 
+Where: inside of (Center) of intersection of BEAV-HILLSDALE HY &amp; GRIFFITH DR in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-07-13T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 191255</name>
+		<address>TUALATIN VALLEY HY and 170TH AVE, Beaverton, OR</address>
+		<description>When: Wed, 7/15/1998 @ 1pm 
+Where: unknown distance from (Center) of intersection of TUALATIN VALLEY HY &amp; 170TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-07-15T13:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 191392</name>
+		<address>GLENEAGLE DR and SHERWOOD BLVD, Sherwood, OR</address>
+		<description>When: Mon, 7/20/1998 @ 2pm 
+Where: inside of (Center) of intersection of GLENEAGLE DR &amp; SHERWOOD BLVD in Sherwood
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-07-20T14:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 191481</name>
+		<address>BEAV-HILLSDALE HY and NB EX BEAV-HLLSD C2, Beaverton, OR</address>
+		<description>When: Wed, 7/22/1998 @ 7am 
+Where: unknown distance from (Center) of intersection of BEAV-HILLSDALE HY &amp; NB EX BEAV-HLLSD C2 in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-07-22T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 191630</name>
+		<address>CORNELL RD and SCIENCE PARK DR, OR</address>
+		<description>When: Tue, 7/28/1998 @ 10am 
+Where: inside of (Center) of intersection of CORNELL RD &amp; SCIENCE PARK DR in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-07-28T10:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 191631</name>
+		<address>MAIN ST and 3RD AVE, Hillsboro, OR</address>
+		<description>When: Tue, 7/28/1998 @ 5pm 
+Where: inside of (Center) of intersection of MAIN ST &amp; 3RD AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-07-28T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 191674</name>
+		<address>BETTS AVE and FARMINGTON RD, Beaverton, OR</address>
+		<description>When: Fri, 7/31/1998 @ 11am 
+Where: inside of (Center) of intersection of BETTS AVE &amp; FARMINGTON RD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-07-31T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 191846</name>
+		<address>ALLEN BLVD and ERICKSON AVE, Beaverton, OR</address>
+		<description>When: Tue, 8/11/1998 @ 3pm 
+Where: inside of (West) of intersection of ALLEN BLVD &amp; ERICKSON AVE in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-08-11T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 191918</name>
+		<address>HELVETIA RD and WEST UNION RD, OR</address>
+		<description>When: Wed, 8/12/1998 @ 8pm 
+Where: inside of (East) of intersection of HELVETIA RD &amp; WEST UNION RD in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-08-12T20:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 191996</name>
+		<address>GREENBRIER PKY and 158TH AVE, Beaverton, OR</address>
+		<description>When: Tue, 8/18/1998 @ 6pm 
+Where: inside of (Center) of intersection of GREENBRIER PKY &amp; 158TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-08-18T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 192046</name>
+		<address>HERMAN RD and TETON AVE, Tualatin, OR</address>
+		<description>When: Wed, 8/19/1998 @ 3pm 
+Where: inside of (Center) of intersection of HERMAN RD &amp; TETON AVE in Tualatin
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-08-19T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 192058</name>
+		<address>MURRAY BLVD and 6TH ST, Beaverton, OR</address>
+		<description>When: Wed, 8/19/1998 @ 8pm 
+Where: inside of (East) of intersection of MURRAY BLVD &amp; 6TH ST in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-08-19T20:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 192137</name>
+		<address>MARTINAZZI AVE and MOHAWK ST, Tualatin, OR</address>
+		<description>When: Fri, 8/21/1998 @ 1pm 
+Where: inside of (South) of intersection of MARTINAZZI AVE &amp; MOHAWK ST in Tualatin
+Details: Type: Bike. Collision: Sideswipe-overtaking. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-08-21T13:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 192254</name>
+		<address>BEACH RD and GORDON RD, OR</address>
+		<description>When: Tue, 9/1/1998 @ 7am 
+Where: inside of (Center) of intersection of BEACH RD &amp; GORDON RD in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-09-01T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 192261</name>
+		<address>BOONES FERRY RD and MOHAWK ST, Tualatin, OR</address>
+		<description>When: Tue, 9/1/1998 @ 9pm 
+Where: unknown distance from (Center) of intersection of BOONES FERRY RD &amp; MOHAWK ST in Tualatin
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-09-01T21:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 192249</name>
+		<address>BARNES RD and LEAHY RD, OR</address>
+		<description>When: Wed, 9/2/1998 @ 6pm 
+Where: inside of (Northeast) of intersection of BARNES RD &amp; LEAHY RD in Outside City Limits
+Details: Type: Bike. Collision: Sideswipe-overtaking. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-09-02T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 192316</name>
+		<address>CANTERBURY LN and PACIFIC HY 99W, Tigard, OR</address>
+		<description>When: Sat, 9/5/1998 @ 2pm 
+Where: unknown distance from (Center) of intersection of CANTERBURY LN &amp; PACIFIC HY 99W in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-09-05T14:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 192423</name>
+		<address>LAURA ST and 39TH CT, Hillsboro, OR</address>
+		<description>When: Mon, 9/14/1998 @ 7pm 
+Where: inside of (Center) of intersection of LAURA ST &amp; 39TH CT in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-09-14T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 192634</name>
+		<address>HAWTHORNE ST and 19TH AVE, Forest Grove, OR</address>
+		<description>When: Mon, 9/28/1998 @ 12pm 
+Where: unknown distance from (Center) of intersection of HAWTHORNE ST &amp; 19TH AVE in Forest Grove
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-09-28T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 192811</name>
+		<address>BOONES FERRY RD and SAGERT ST, Tualatin, OR</address>
+		<description>When: Thu, 10/8/1998 @ 7pm 
+Where: unknown distance from (Center) of intersection of BOONES FERRY RD &amp; SAGERT ST in Tualatin
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-10-08T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 193045</name>
+		<address>CEDAR HILLS BLVD and HALL BLVD, Beaverton, OR</address>
+		<description>When: Tue, 10/27/1998 @ 12pm 
+Where: inside of (Center) of intersection of CEDAR HILLS BLVD &amp; HALL BLVD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-10-27T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 193689</name>
+		<address>CANTERBURY LN and PACIFIC HY 99W, Tigard, OR</address>
+		<description>When: Tue, 12/8/1998 @ 6pm 
+Where: unknown distance from (Center) of intersection of CANTERBURY LN &amp; PACIFIC HY 99W in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-12-08T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 193712</name>
+		<address>MAPLE ST and 13TH AVE, Hillsboro, OR</address>
+		<description>When: Fri, 12/11/1998 @ 5pm 
+Where: inside of (Center) of intersection of MAPLE ST &amp; 13TH AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-12-11T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 193986</name>
+		<address>BEAV-HILLSDALE HY and 107TH AVE, Beaverton, OR</address>
+		<description>When: Mon, 12/14/1998 @ 6pm 
+Where: unknown distance from (Center) of intersection of BEAV-HILLSDALE HY &amp; 107TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-12-14T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 194063</name>
+		<address>BASELINE ST and 8TH AVE, Hillsboro, OR</address>
+		<description>When: Tue, 12/29/1998 @ 6am 
+Where: unknown distance from (Center) of intersection of BASELINE ST &amp; 8TH AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-12-29T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 194065</name>
+		<address>BEREA DR and GARRETT ST, Tigard, OR</address>
+		<description>When: Tue, 12/29/1998 @ 4pm 
+Where: inside of (Center) of intersection of BEREA DR &amp; GARRETT ST in Tigard
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1998-12-29T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 136624</name>
+		<address>TIEDEMAN AVE and TIGARD ST, Tigard, OR</address>
+		<description>When: Wed, 1/6/1999 @ 7pm 
+Where: inside of (Center) of intersection of TIEDEMAN AVE &amp; TIGARD ST in Tigard
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-01-06T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 136829</name>
+		<address>BASELINE ST and DENNIS AVE, Hillsboro, OR</address>
+		<description>When: Tue, 1/19/1999 @ 2pm 
+Where: unknown distance from (Center) of intersection of BASELINE ST &amp; DENNIS AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-01-19T14:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 137162</name>
+		<address>CEDAR HILLS BLVD and TUALATIN VALLEY HY, Beaverton, OR</address>
+		<description>When: Sun, 2/7/1999 @ 2pm 
+Where: unknown distance from (Center) of intersection of CEDAR HILLS BLVD &amp; TUALATIN VALLEY HY in Beaverton
+Details: Type: Bike. Collision: Sideswipe-overtaking. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-02-07T14:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 137249</name>
+		<address>LADY MARION DR and 100TH AVE, Tigard, OR</address>
+		<description>When: Fri, 2/12/1999 @ 7am 
+Where: inside of (Center) of intersection of LADY MARION DR &amp; 100TH AVE in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-02-12T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 137345</name>
+		<address>TUALATIN VALLEY HY and 13TH AVE, Hillsboro, OR</address>
+		<description>When: Mon, 2/22/1999 @ 7am 
+Where: unknown distance from (Center) of intersection of TUALATIN VALLEY HY &amp; 13TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-02-22T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 138088</name>
+		<address>ALDEN ST and OLESON RD, OR</address>
+		<description>When: Fri, 4/2/1999 @ 7pm 
+Where: inside of (Center) of intersection of ALDEN ST &amp; OLESON RD in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-04-02T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 138429</name>
+		<address>SHORT ST and TUALATIN VALLEY HY, Beaverton, OR</address>
+		<description>When: Thu, 4/15/1999 @ 9am 
+Where: unknown distance from (Center) of intersection of SHORT ST &amp; TUALATIN VALLEY HY in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-04-15T09:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 137992</name>
+		<address>RANCHO ST and 54TH AVE, Hillsboro, OR</address>
+		<description>When: Sat, 4/17/1999 @ 6pm 
+Where: inside of (West) of intersection of RANCHO ST &amp; 54TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-04-17T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 138024</name>
+		<address>FARMINGTON RD and WASHINGTON AVE, Beaverton, OR</address>
+		<description>When: Tue, 4/20/1999 @ 5pm 
+Where: inside of (Center) of intersection of FARMINGTON RD &amp; WASHINGTON AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-04-20T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 138319</name>
+		<address>DENNIS AVE and WASHINGTON ST, Hillsboro, OR</address>
+		<description>When: Thu, 4/22/1999 @ 5am 
+Where: inside of (Center) of intersection of DENNIS AVE &amp; WASHINGTON ST in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-04-22T05:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 138728</name>
+		<address>DURHAM RD and 108TH AVE, Tigard, OR</address>
+		<description>When: Tue, 5/11/1999 @ 7pm 
+Where: inside of (Center) of intersection of DURHAM RD &amp; 108TH AVE in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-05-11T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 142462</name>
+		<address>MCKENZIE ST and PACIFIC HY 99W, Tigard, OR</address>
+		<description>When: Mon, 5/17/1999 @ 5pm 
+Where: unknown distance from (Center) of intersection of MCKENZIE ST &amp; PACIFIC HY 99W in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-05-17T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 195238</name>
+		<address>MCKENZIE ST and PACIFIC HY 99W, Tigard, OR</address>
+		<description>When: Mon, 5/17/1999 @ 5pm 
+Where: unknown distance from (Center) of intersection of MCKENZIE ST &amp; PACIFIC HY 99W in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-05-17T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 139016</name>
+		<address>OAK ST and 9TH AVE, Hillsboro, OR</address>
+		<description>When: Fri, 6/11/1999 @ 4pm 
+Where: unknown distance from (Center) of intersection of OAK ST &amp; 9TH AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-06-11T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 139552</name>
+		<address>HELVETIA RD and WEST UNION RD, OR</address>
+		<description>When: Tue, 7/13/1999 @ 6pm 
+Where: inside of (Center) of intersection of HELVETIA RD &amp; WEST UNION RD in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-07-13T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 139715</name>
+		<address>TUALATIN VALLEY HY and 110TH AVE, Beaverton, OR</address>
+		<description>When: Thu, 7/22/1999 @ 5pm 
+Where: unknown distance from (Center) of intersection of TUALATIN VALLEY HY &amp; 110TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-07-22T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 139937</name>
+		<address>HALL BLVD and SATTLER ST, Tigard, OR</address>
+		<description>When: Tue, 8/3/1999 @ 12pm 
+Where: unknown distance from (Center) of intersection of HALL BLVD &amp; SATTLER ST in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-08-03T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 139938</name>
+		<address>BEECHWOOD AVE and WALKER RD, OR</address>
+		<description>When: Tue, 8/3/1999 @ 7pm 
+Where: inside of (Center) of intersection of BEECHWOOD AVE &amp; WALKER RD in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-08-03T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 140093</name>
+		<address>HALL BLVD and 7TH ST, Beaverton, OR</address>
+		<description>When: Tue, 8/10/1999 @ 4am 
+Where: inside of (Center) of intersection of HALL BLVD &amp; 7TH ST in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-08-10T04:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 140031</name>
+		<address>FREWING ST and PACIFIC HY 99W, Tigard, OR</address>
+		<description>When: Fri, 8/13/1999 @ 5pm 
+Where: unknown distance from (Center) of intersection of FREWING ST &amp; PACIFIC HY 99W in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-08-13T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 140270</name>
+		<address>MURRAY BLVD and 27TH CT, Beaverton, OR</address>
+		<description>When: Fri, 8/20/1999 @ 7am 
+Where: inside of (Center) of intersection of MURRAY BLVD &amp; 27TH CT in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-08-20T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 140419</name>
+		<address>ELECTRIC ST and HOCKEN AVE, Beaverton, OR</address>
+		<description>When: Sun, 9/5/1999 @ 11am 
+Where: inside of (Center) of intersection of ELECTRIC ST &amp; HOCKEN AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-09-05T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 140416</name>
+		<address>CORNELL RD and 179TH AVE, OR</address>
+		<description>When: Sun, 9/5/1999 @ 5pm 
+Where: inside of (Center) of intersection of CORNELL RD &amp; 179TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-09-05T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 140562</name>
+		<address>BASELINE RD and 37TH AVE, Hillsboro, OR</address>
+		<description>When: Mon, 9/6/1999 @ 11am 
+Where: inside of (Center) of intersection of BASELINE RD &amp; 37TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-09-06T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 140523</name>
+		<address>FARMINGTON RD and HALL BLVD, Beaverton, OR</address>
+		<description>When: Sat, 9/18/1999 @ 11am 
+Where: inside of (Center) of intersection of FARMINGTON RD &amp; HALL BLVD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-09-18T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 140529</name>
+		<address>MULTNOMAH BLVD and 69TH AVE, SW Portland, OR</address>
+		<description>When: Sat, 9/18/1999 @ 12pm 
+Where: inside of (Center) of intersection of MULTNOMAH BLVD &amp; 69TH AVE in SW Portland
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-09-18T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 140541</name>
+		<address>ADAIR ST and 20TH AVE, Cornelius, OR</address>
+		<description>When: Sun, 9/19/1999 @ 10am 
+Where: unknown distance from (Center) of intersection of ADAIR ST &amp; 20TH AVE in Cornelius
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-09-19T10:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 140692</name>
+		<address>MEADOW DR and WALKER RD, OR</address>
+		<description>When: Fri, 9/24/1999 @ 4pm 
+Where: inside of (Center) of intersection of MEADOW DR &amp; WALKER RD in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-09-24T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 140753</name>
+		<address>ROSA RD and 185TH AVE, OR</address>
+		<description>When: Thu, 9/30/1999 @ 9pm 
+Where: inside of (Center) of intersection of ROSA RD &amp; 185TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-09-30T21:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 140828</name>
+		<address>FARMINGTON RD and 139TH AVE, Beaverton, OR</address>
+		<description>When: Mon, 10/4/1999 @ 7pm 
+Where: inside of (Center) of intersection of FARMINGTON RD &amp; 139TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-10-04T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 141042</name>
+		<address>MAIN ST and RAILROAD ST, Sherwood, OR</address>
+		<description>When: Thu, 10/14/1999 @ 3pm 
+Where: inside of (Center) of intersection of MAIN ST &amp; RAILROAD ST in Sherwood
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-10-14T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 141927</name>
+		<address>WASHINGTON ST and 3RD AVE, Hillsboro, OR</address>
+		<description>When: Tue, 11/30/1999 @ 4pm 
+Where: inside of (Center) of intersection of WASHINGTON ST &amp; 3RD AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-11-30T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 142257</name>
+		<address>BASELINE ST and 6TH AVE, Hillsboro, OR</address>
+		<description>When: Wed, 12/15/1999 @ 3pm 
+Where: unknown distance from (Center) of intersection of BASELINE ST &amp; 6TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-12-15T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 142343</name>
+		<address>BLANTON ST and 160TH AVE, OR</address>
+		<description>When: Mon, 12/27/1999 @ 6am 
+Where: inside of (Center) of intersection of BLANTON ST &amp; 160TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>1999-12-27T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 88066</name>
+		<address>CORNELL RD and 34TH AVE, Hillsboro, OR</address>
+		<description>When: Sat, 1/15/2000 @ 8pm 
+Where: inside of (Center) of intersection of CORNELL RD &amp; 34TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-01-15T20:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 88682</name>
+		<address>MARTINAZZI AVE and SAGERT ST, Tualatin, OR</address>
+		<description>When: Tue, 2/15/2000 @ 5pm 
+Where: inside of (Center) of intersection of MARTINAZZI AVE &amp; SAGERT ST in Tualatin
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-02-15T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 88859</name>
+		<address>BASELINE RD and 53RD AVE, Hillsboro, OR</address>
+		<description>When: Thu, 2/24/2000 @ 8am 
+Where: inside of (Center) of intersection of BASELINE RD &amp; 53RD AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-02-24T08:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 88909</name>
+		<address>MCDONALD ST and 103RD AVE, Tigard, OR</address>
+		<description>When: Tue, 2/29/2000 @ 7am 
+Where: inside of (Center) of intersection of MCDONALD ST &amp; 103RD AVE in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-02-29T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 89093</name>
+		<address>MAPLE ST and PACIFIC AVE, Forest Grove, OR</address>
+		<description>When: Mon, 3/6/2000 @ 12pm 
+Where: unknown distance from (Center) of intersection of MAPLE ST &amp; PACIFIC AVE in Forest Grove
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-03-06T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 89456</name>
+		<address>SUMMERWOOD DR and 135TH AVE, Tigard, OR</address>
+		<description>When: Wed, 3/29/2000 @ 6am 
+Where: inside of (Center) of intersection of SUMMERWOOD DR &amp; 135TH AVE in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-03-29T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 89614</name>
+		<address>CHAPS CT and RIGERT RD, Beaverton, OR</address>
+		<description>When: Sun, 4/2/2000 @ 6pm 
+Where: inside of (Center) of intersection of CHAPS CT &amp; RIGERT RD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-04-02T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 89813</name>
+		<address>LARCH ST and 82ND AVE, OR</address>
+		<description>When: Sat, 4/15/2000 @ 7pm 
+Where: inside of (Center) of intersection of LARCH ST &amp; 82ND AVE in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-04-15T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 90091</name>
+		<address>CORNELL RD and 173RD AVE, Beaverton, OR</address>
+		<description>When: Fri, 4/28/2000 @ 3pm 
+Where: inside of (Center) of intersection of CORNELL RD &amp; 173RD AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-04-28T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 90326</name>
+		<address>WATERHOUSE AVE and 158TH AVE, Beaverton, OR</address>
+		<description>When: Tue, 5/2/2000 @ 2pm 
+Where: inside of (Center) of intersection of WATERHOUSE AVE &amp; 158TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-05-02T14:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 90309</name>
+		<address>ESTATE DR and HAREWOOD ST, Hillsboro, OR</address>
+		<description>When: Tue, 5/9/2000 @ 6pm 
+Where: inside of (Center) of intersection of ESTATE DR &amp; HAREWOOD ST in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-05-09T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 90366</name>
+		<address>ESTATE DR and HAREWOOD ST, Hillsboro, OR</address>
+		<description>When: Sun, 5/14/2000 @ 8pm 
+Where: inside of (West) of intersection of ESTATE DR &amp; HAREWOOD ST in Hillsboro
+Details: Type: Bike. Collision: Sideswipe-overtaking. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-05-14T20:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 90426</name>
+		<address>APPLEGATE and KAISER RD, OR</address>
+		<description>When: Mon, 5/15/2000 @ 3pm 
+Where: inside of (Center) of intersection of APPLEGATE &amp; KAISER RD in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-05-15T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 90457</name>
+		<address>00908 UNKNOWN NAME and HAZEL FERN RD, Tualatin, OR</address>
+		<description>When: Thu, 5/18/2000 @ 6pm 
+Where: unknown distance from (Center) of intersection of 00908 UNKNOWN NAME &amp; HAZEL FERN RD in Tualatin
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-05-18T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 90578</name>
+		<address>ALLEN BLVD and MURRAY BLVD, Beaverton, OR</address>
+		<description>When: Sun, 5/21/2000 @ 1am 
+Where: inside of (Center) of intersection of ALLEN BLVD &amp; MURRAY BLVD in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-05-21T01:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 90698</name>
+		<address>HEATHER LN and 101ST AVE, Beaverton, OR</address>
+		<description>When: Thu, 6/1/2000 @ 3pm 
+Where: inside of (Center) of intersection of HEATHER LN &amp; 101ST AVE in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-06-01T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 91106</name>
+		<address>RIVER RD and TUALATIN VALLEY HY, Hillsboro, OR</address>
+		<description>When: Wed, 6/28/2000 @ 10pm 
+Where: unknown distance from (Center) of intersection of RIVER RD &amp; TUALATIN VALLEY HY in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-06-28T22:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 91397</name>
+		<address>FAIRCREST ST and FILMONT AVE, OR</address>
+		<description>When: Wed, 7/19/2000 @ 7pm 
+Where: inside of (Center) of intersection of FAIRCREST ST &amp; FILMONT AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-07-19T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 91804</name>
+		<address>BOONES FERRY RD and KILLARNEY LN, Tualatin, OR</address>
+		<description>When: Fri, 8/11/2000 @ 2pm 
+Where: unknown distance from (Center) of intersection of BOONES FERRY RD &amp; KILLARNEY LN in Tualatin
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-08-11T14:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 91913</name>
+		<address>BROADWAY ST and HALL BLVD, Beaverton, OR</address>
+		<description>When: Thu, 8/17/2000 @ 9pm 
+Where: inside of (Center) of intersection of BROADWAY ST &amp; HALL BLVD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-08-17T21:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 91933</name>
+		<address>SUNRISE LN and 25TH AVE, Hillsboro, OR</address>
+		<description>When: Fri, 8/18/2000 @ 8pm 
+Where: inside of (Center) of intersection of SUNRISE LN &amp; 25TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-08-18T20:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 91981</name>
+		<address>D ST and PACIFIC AVE, Forest Grove, OR</address>
+		<description>When: Tue, 8/22/2000 @ 1pm 
+Where: inside of (Center) of intersection of D ST &amp; PACIFIC AVE in Forest Grove
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-08-22T13:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 91992</name>
+		<address>CONNELL AVE and MAIN ST, Hillsboro, OR</address>
+		<description>When: Wed, 8/23/2000 @ 3pm 
+Where: inside of (Center) of intersection of CONNELL AVE &amp; MAIN ST in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-08-23T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 92078</name>
+		<address>EVERGREEN RD and 25TH AVE, Hillsboro, OR</address>
+		<description>When: Tue, 8/29/2000 @ 1pm 
+Where: inside of (East) of intersection of EVERGREEN RD &amp; 25TH AVE in Hillsboro
+Details: Type: Bike. Collision: Sideswipe-overtaking. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-08-29T13:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 92421</name>
+		<address>ALDERBROOK DR and DURHAM RD, Tigard, OR</address>
+		<description>When: Fri, 9/15/2000 @ 11am 
+Where: inside of (Center) of intersection of ALDERBROOK DR &amp; DURHAM RD in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-09-15T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 92312</name>
+		<address>ROSA RD and 167TH AVE, OR</address>
+		<description>When: Sat, 9/16/2000 @ 10am 
+Where: inside of (Center) of intersection of ROSA RD &amp; 167TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-09-16T10:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 92341</name>
+		<address>MAPLE ST and 13TH AVE, Hillsboro, OR</address>
+		<description>When: Wed, 9/20/2000 @ 5pm 
+Where: inside of (Center) of intersection of MAPLE ST &amp; 13TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-09-20T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 92434</name>
+		<address>SCHOLLS FERRY RD and 130TH AVE, Tigard, OR</address>
+		<description>When: Thu, 9/21/2000 @ 7pm 
+Where: inside of (Center) of intersection of SCHOLLS FERRY RD &amp; 130TH AVE in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-09-21T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 92474</name>
+		<address>CYPRESS ST and 30TH AVE, Hillsboro, OR</address>
+		<description>When: Sat, 9/23/2000 @ 1pm 
+Where: inside of (Center) of intersection of CYPRESS ST &amp; 30TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-09-23T13:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 92471</name>
+		<address>BURNHAM ST and MAIN ST, Tigard, OR</address>
+		<description>When: Sat, 9/23/2000 @ 8pm 
+Where: inside of (Center) of intersection of BURNHAM ST &amp; MAIN ST in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-09-23T20:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 92859</name>
+		<address>GARDEN HOME RD and OLESON RD, SW Portland, OR</address>
+		<description>When: Fri, 10/20/2000 @ 6pm 
+Where: inside of (Center) of intersection of GARDEN HOME RD &amp; OLESON RD in SW Portland
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-10-20T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 92779</name>
+		<address>DENNEY RD and LOMBARD AVE, Beaverton, OR</address>
+		<description>When: Wed, 10/25/2000 @ 3pm 
+Where: inside of (Center) of intersection of DENNEY RD &amp; LOMBARD AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-10-25T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 92935</name>
+		<address>OAK ST and PACIFIC AVE, Forest Grove, OR</address>
+		<description>When: Sun, 10/29/2000 @ 11am 
+Where: unknown distance from (Center) of intersection of OAK ST &amp; PACIFIC AVE in Forest Grove
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-10-29T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 93378</name>
+		<address>WALNUT ST and 7TH AVE, Hillsboro, OR</address>
+		<description>When: Wed, 11/29/2000 @ 6am 
+Where: inside of (Center) of intersection of WALNUT ST &amp; 7TH AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-11-29T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 93418</name>
+		<address>JENKINS RD and MURRAY BLVD, OR</address>
+		<description>When: Fri, 12/1/2000 @ 12am 
+Where: inside of (Center) of intersection of JENKINS RD &amp; MURRAY BLVD in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-12-01T00:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 93662</name>
+		<address>BUTLER ST and 229TH AVE, Hillsboro, OR</address>
+		<description>When: Thu, 12/21/2000 @ 5pm 
+Where: inside of (Center) of intersection of BUTLER ST &amp; 229TH AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2000-12-21T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 41535</name>
+		<address>MCDONALD ST and PACIFIC HY 99W, Tigard, OR</address>
+		<description>When: Sun, 1/28/2001 @ 12pm 
+Where: unknown distance from (Center) of intersection of MCDONALD ST &amp; PACIFIC HY 99W in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-01-28T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 41600</name>
+		<address>ALPINE ST and 10TH AVE, Cornelius, OR</address>
+		<description>When: Fri, 2/2/2001 @ 7pm 
+Where: inside of (Center) of intersection of ALPINE ST &amp; 10TH AVE in Cornelius
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-02-02T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 41807</name>
+		<address>DURHAM RD and 79TH AVE, Tigard, OR</address>
+		<description>When: Wed, 2/14/2001 @ 6am 
+Where: inside of (Center) of intersection of DURHAM RD &amp; 79TH AVE in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-02-14T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 42307</name>
+		<address>ALOMA WAY and OLESON RD, OR</address>
+		<description>When: Mon, 3/12/2001 @ 8am 
+Where: inside of (Center) of intersection of ALOMA WAY &amp; OLESON RD in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-03-12T08:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 42583</name>
+		<address>PACIFIC HY 99W and 69TH AVE, Tigard, OR</address>
+		<description>When: Fri, 3/30/2001 @ 5pm 
+Where: unknown distance from (Center) of intersection of PACIFIC HY 99W &amp; 69TH AVE in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-03-30T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 42804</name>
+		<address>DARNIELLE DR and JACKSON SCHOOL RD, Hillsboro, OR</address>
+		<description>When: Thu, 4/12/2001 @ 2pm 
+Where: inside of (Center) of intersection of DARNIELLE DR &amp; JACKSON SCHOOL RD in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-04-12T14:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 42821</name>
+		<address>NORTH DAKOTA ST and 121ST AVE, Tigard, OR</address>
+		<description>When: Sat, 4/14/2001 @ 6pm 
+Where: inside of (Center) of intersection of NORTH DAKOTA ST &amp; 121ST AVE in Tigard
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-04-14T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 42940</name>
+		<address>BEEF BEND RD and ELSNER RD, OR</address>
+		<description>When: Wed, 4/25/2001 @ 5pm 
+Where: inside of (Center) of intersection of BEEF BEND RD &amp; ELSNER RD in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-04-25T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 42936</name>
+		<address>BANFF DR and WHISTLER LN, OR</address>
+		<description>When: Wed, 4/25/2001 @ 7pm 
+Where: inside of (Center) of intersection of BANFF DR &amp; WHISTLER LN in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-04-25T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 43056</name>
+		<address>JOHNSON ST and 209TH AVE, OR</address>
+		<description>When: Fri, 5/4/2001 @ 9am 
+Where: inside of (Center) of intersection of JOHNSON ST &amp; 209TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-05-04T09:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 43229</name>
+		<address>MURRAY BLVD and WALKER RD, OR</address>
+		<description>When: Fri, 5/11/2001 @ 5pm 
+Where: inside of (Center) of intersection of MURRAY BLVD &amp; WALKER RD in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-05-11T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 43354</name>
+		<address>WALKER RD and 185TH AVE, Hillsboro, OR</address>
+		<description>When: Fri, 5/25/2001 @ 10pm 
+Where: inside of (Center) of intersection of WALKER RD &amp; 185TH AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-05-25T22:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 43385</name>
+		<address>FARMINGTON RD and WATSON AVE, Beaverton, OR</address>
+		<description>When: Wed, 5/30/2001 @ 10am 
+Where: inside of (East) of intersection of FARMINGTON RD &amp; WATSON AVE in Beaverton
+Details: Type: Bike. Collision: Rear-End. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-05-30T10:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 43963</name>
+		<address>SEQUOIA PKY and UPPER BOONES FERRY, Tigard, OR</address>
+		<description>When: Mon, 6/25/2001 @ 3pm 
+Where: inside of (Center) of intersection of SEQUOIA PKY &amp; UPPER BOONES FERRY in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-06-25T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 44276</name>
+		<address>PACIFIC HY 99W and TUALATIN-SHERWOOD, Sherwood, OR</address>
+		<description>When: Sat, 7/7/2001 @ 5pm 
+Where: unknown distance from (Center) of intersection of PACIFIC HY 99W &amp; TUALATIN-SHERWOOD in Sherwood
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-07-07T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 44257</name>
+		<address>WASHINGTON ST and 2ND AVE, Hillsboro, OR</address>
+		<description>When: Tue, 7/10/2001 @ 4pm 
+Where: inside of (Center) of intersection of WASHINGTON ST &amp; 2ND AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-07-10T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 44343</name>
+		<address>BASELINE RD and 177TH TER, OR</address>
+		<description>When: Wed, 7/11/2001 @ 7am 
+Where: inside of (Center) of intersection of BASELINE RD &amp; 177TH TER in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-07-11T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 44449</name>
+		<address>CHERRY ST and 9TH AVE, Cornelius, OR</address>
+		<description>When: Tue, 7/17/2001 @ 4pm 
+Where: inside of (Center) of intersection of CHERRY ST &amp; 9TH AVE in Cornelius
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-07-17T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 44471</name>
+		<address>BANY RD and 185TH AVE, OR</address>
+		<description>When: Wed, 7/25/2001 @ 7pm 
+Where: inside of (Center) of intersection of BANY RD &amp; 185TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-07-25T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 44865</name>
+		<address>KINNAMAN RD and 185TH AVE, OR</address>
+		<description>When: Wed, 8/8/2001 @ 9pm 
+Where: inside of (North) of intersection of KINNAMAN RD &amp; 185TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-08-08T21:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 44951</name>
+		<address>LAURELWOOD AVE and SCHOLLS FERRY RD, OR</address>
+		<description>When: Sat, 8/11/2001 @ 3pm 
+Where: inside of (Center) of intersection of LAURELWOOD AVE &amp; SCHOLLS FERRY RD in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-08-11T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 44965</name>
+		<address>MIDWAY RD and VANDERSCHUERE RD, OR</address>
+		<description>When: Sun, 8/12/2001 @ 9am 
+Where: inside of (Center) of intersection of MIDWAY RD &amp; VANDERSCHUERE RD in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-08-12T09:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 45218</name>
+		<address>EVERGREEN PKY and 185TH AVE, OR</address>
+		<description>When: Thu, 8/30/2001 @ 11am 
+Where: inside of (Center) of intersection of EVERGREEN PKY &amp; 185TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-08-30T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 45395</name>
+		<address>CORNELIUS PASS RD and LOIS ST, OR</address>
+		<description>When: Thu, 9/13/2001 @ 12pm 
+Where: inside of (North) of intersection of CORNELIUS PASS RD &amp; LOIS ST in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-09-13T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 45462</name>
+		<address>DAVIS RD and 150TH AVE, Beaverton, OR</address>
+		<description>When: Wed, 9/19/2001 @ 4pm 
+Where: inside of (Center) of intersection of DAVIS RD &amp; 150TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-09-19T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 45744</name>
+		<address>VON NEUMANN DR and 206TH AVE, Hillsboro, OR</address>
+		<description>When: Thu, 10/11/2001 @ 6pm 
+Where: inside of (Center) of intersection of VON NEUMANN DR &amp; 206TH AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-10-11T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 45774</name>
+		<address>GRANT AVE and WALNUT ST, Tigard, OR</address>
+		<description>When: Fri, 10/12/2001 @ 4pm 
+Where: inside of (Center) of intersection of GRANT AVE &amp; WALNUT ST in Tigard
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-10-12T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 45761</name>
+		<address>PACIFIC HY 99W and WALNUT ST, Tigard, OR</address>
+		<description>When: Mon, 10/15/2001 @ 5pm 
+Where: unknown distance from (Center) of intersection of PACIFIC HY 99W &amp; WALNUT ST in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-10-15T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 46116</name>
+		<address>SCHOLLS FERRY RD and 88TH AVE, OR</address>
+		<description>When: Thu, 11/1/2001 @ 6am 
+Where: inside of (Center) of intersection of SCHOLLS FERRY RD &amp; 88TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-11-01T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 46520</name>
+		<address>LAUREL ST and PACIFIC AVE, Forest Grove, OR</address>
+		<description>When: Mon, 12/3/2001 @ 3pm 
+Where: unknown distance from (Center) of intersection of LAUREL ST &amp; PACIFIC AVE in Forest Grove
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-12-03T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 46518</name>
+		<address>BONITA RD and SEQUOIA PKY, Tigard, OR</address>
+		<description>When: Tue, 12/4/2001 @ 6am 
+Where: inside of (Center) of intersection of BONITA RD &amp; SEQUOIA PKY in Tigard
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2001-12-04T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1066831</name>
+		<address>PUEBLO ST and 55TH AVE, Hillsboro, OR</address>
+		<description>When: Mon, 2/25/2002 @ 4pm 
+Where: inside of (South) of intersection of PUEBLO ST &amp; 55TH AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-02-25T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1066887</name>
+		<address>ALLEN BLVD and MENLO DR, Beaverton, OR</address>
+		<description>When: Tue, 2/26/2002 @ 5pm 
+Where: inside of (Center) of intersection of ALLEN BLVD &amp; MENLO DR in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-02-26T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1066974</name>
+		<address>EIDER CT and 185TH AVE, Hillsboro, OR</address>
+		<description>When: Sun, 3/3/2002 @ 12pm 
+Where: inside of (Center) of intersection of EIDER CT &amp; 185TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-03-03T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1067016</name>
+		<address>DOGWOOD ST and 12TH AVE, Cornelius, OR</address>
+		<description>When: Mon, 3/4/2002 @ 4pm 
+Where: inside of (Center) of intersection of DOGWOOD ST &amp; 12TH AVE in Cornelius
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-03-04T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1067747</name>
+		<address>ROELLICH AVE and REISNER LN, Sherwood, OR</address>
+		<description>When: Mon, 4/22/2002 @ 3pm 
+Where: inside of (Center) of intersection of ROELLICH AVE &amp; REISNER LN in Sherwood
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-04-22T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1067987</name>
+		<address>OAK ST and 10TH AVE, Hillsboro, OR</address>
+		<description>When: Tue, 5/7/2002 @ 7am 
+Where: unknown distance from (Center) of intersection of OAK ST &amp; 10TH AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-05-07T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1068035</name>
+		<address>WASHINGTON ST and 6TH AVE, Hillsboro, OR</address>
+		<description>When: Tue, 5/14/2002 @ 3pm 
+Where: inside of (Center) of intersection of WASHINGTON ST &amp; 6TH AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-05-14T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1068152</name>
+		<address>MURRAY BLVD and WEIR RD, Beaverton, OR</address>
+		<description>When: Fri, 5/24/2002 @ 5pm 
+Where: inside of (Center) of intersection of MURRAY BLVD &amp; WEIR RD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-05-24T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1068477</name>
+		<address>TUALATIN VALLEY HY and 234TH AVE, Hillsboro, OR</address>
+		<description>When: Tue, 6/25/2002 @ 7pm 
+Where: unknown distance from (Center) of intersection of TUALATIN VALLEY HY &amp; 234TH AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-06-25T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1068489</name>
+		<address>MAIN ST and 8TH AVE, Hillsboro, OR</address>
+		<description>When: Thu, 6/27/2002 @ 11am 
+Where: inside of (Center) of intersection of MAIN ST &amp; 8TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-06-27T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1068556</name>
+		<address>WALNUT ST and 1ST AVE, Hillsboro, OR</address>
+		<description>When: Mon, 7/1/2002 @ 7pm 
+Where: unknown distance from (Center) of intersection of WALNUT ST &amp; 1ST AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-07-01T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1068624</name>
+		<address>NYBERG RD and SB EX NYBERG RD C4, Tualatin, OR</address>
+		<description>When: Wed, 7/10/2002 @ 6pm 
+Where: unknown distance from (Center) of intersection of NYBERG RD &amp; SB EX NYBERG RD C4 in Tualatin
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-07-10T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1068715</name>
+		<address>ALLEN BLVD and VALLEY AVE, Beaverton, OR</address>
+		<description>When: Tue, 7/23/2002 @ 3pm 
+Where: inside of (Center) of intersection of ALLEN BLVD &amp; VALLEY AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-07-23T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1068777</name>
+		<address>PACIFIC HY 99W and WALNUT PL, Tigard, OR</address>
+		<description>When: Wed, 7/31/2002 @ 1pm 
+Where: unknown distance from (Center) of intersection of PACIFIC HY 99W &amp; WALNUT PL in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-07-31T13:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1068772</name>
+		<address>BROCKMAN RD and 135TH AVE, Beaverton, OR</address>
+		<description>When: Wed, 7/31/2002 @ 3pm 
+Where: inside of (Center) of intersection of BROCKMAN RD &amp; 135TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-07-31T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1068836</name>
+		<address>AVERY ST and BOONES FERRY RD, Tualatin, OR</address>
+		<description>When: Thu, 8/1/2002 @ 9am 
+Where: unknown distance from (Center) of intersection of AVERY ST &amp; BOONES FERRY RD in Tualatin
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-08-01T09:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1068863</name>
+		<address>EVERGREEN PKY and STUCKI AVE, Hillsboro, OR</address>
+		<description>When: Mon, 8/5/2002 @ 12pm 
+Where: inside of (Southwest) of intersection of EVERGREEN PKY &amp; STUCKI AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-08-05T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1068883</name>
+		<address>CEDAR ST and 7TH AVE, Hillsboro, OR</address>
+		<description>When: Wed, 8/7/2002 @ 2pm 
+Where: inside of (North) of intersection of CEDAR ST &amp; 7TH AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-08-07T14:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1068956</name>
+		<address>BONITA RD and 72ND AVE, Tigard, OR</address>
+		<description>When: Tue, 8/13/2002 @ 7am 
+Where: inside of (Center) of intersection of BONITA RD &amp; 72ND AVE in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-08-13T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1069019</name>
+		<address>BASELINE RD and 28TH AVE, Hillsboro, OR</address>
+		<description>When: Fri, 8/16/2002 @ 2pm 
+Where: inside of (Center) of intersection of BASELINE RD &amp; 28TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-08-16T14:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1069118</name>
+		<address>MARTINAZZI AVE and TUALATIN-SHERWOOD, Tualatin, OR</address>
+		<description>When: Thu, 8/22/2002 @ 9pm 
+Where: inside of (Center) of intersection of MARTINAZZI AVE &amp; TUALATIN-SHERWOOD in Tualatin
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-08-22T21:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1069110</name>
+		<address>TUALATIN VALLEY HY and 117TH AVE, Beaverton, OR</address>
+		<description>When: Fri, 8/23/2002 @ 8am 
+Where: unknown distance from (Center) of intersection of TUALATIN VALLEY HY &amp; 117TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-08-23T08:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1069520</name>
+		<address>COLLEGE WAY and PACIFIC AVE, Forest Grove, OR</address>
+		<description>When: Wed, 9/18/2002 @ 4pm 
+Where: unknown distance from (Center) of intersection of COLLEGE WAY &amp; PACIFIC AVE in Forest Grove
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-09-18T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1069823</name>
+		<address>TUALATIN VLY HY and YEW ST, Forest Grove, OR</address>
+		<description>When: Tue, 10/8/2002 @ 11am 
+Where: unknown distance from (Center) of intersection of TUALATIN VLY HY &amp; YEW ST in Forest Grove
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-10-08T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1069971</name>
+		<address>FARMINGTON RD and 141ST AVE, Beaverton, OR</address>
+		<description>When: Tue, 10/15/2002 @ 5pm 
+Where: inside of (Center) of intersection of FARMINGTON RD &amp; 141ST AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-10-15T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1070162</name>
+		<address>BROCKMAN RD and 130TH AVE, Beaverton, OR</address>
+		<description>When: Fri, 10/25/2002 @ 7am 
+Where: inside of (Center) of intersection of BROCKMAN RD &amp; 130TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-10-25T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1070843</name>
+		<address>LINCOLN ST and 6TH AVE, Hillsboro, OR</address>
+		<description>When: Fri, 11/22/2002 @ 8am 
+Where: inside of (Center) of intersection of LINCOLN ST &amp; 6TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-11-22T08:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1071097</name>
+		<address>B ST and 21ST AVE, Forest Grove, OR</address>
+		<description>When: Fri, 12/6/2002 @ 6am 
+Where: inside of (Center) of intersection of B ST &amp; 21ST AVE in Forest Grove
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-12-06T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1071195</name>
+		<address>MAIN ST and 10TH AVE, Hillsboro, OR</address>
+		<description>When: Thu, 12/12/2002 @ 8pm 
+Where: inside of (Center) of intersection of MAIN ST &amp; 10TH AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2002-12-12T20:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 948443</name>
+		<address>LAURELWOOD AVE and SCHOLLS FERRY RD, OR</address>
+		<description>When: Mon, 1/6/2003 @ 6pm 
+Where: inside of (Center) of intersection of LAURELWOOD AVE &amp; SCHOLLS FERRY RD in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-01-06T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 949234</name>
+		<address>HALL BLVD and 5TH ST, Beaverton, OR</address>
+		<description>When: Tue, 1/14/2003 @ 3pm 
+Where: inside of (Center) of intersection of HALL BLVD &amp; 5TH ST in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-01-14T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 961085</name>
+		<address>GREENBURG RD and WASHINGTON SQR RD, Tigard, OR</address>
+		<description>When: Tue, 2/11/2003 @ 3pm 
+Where: inside of (East) of intersection of GREENBURG RD &amp; WASHINGTON SQR RD in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-02-11T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 956904</name>
+		<address>GEORGETOWN WAY and LIBERTY BELL DR, OR</address>
+		<description>When: Tue, 2/11/2003 @ 5pm 
+Where: inside of (North) of intersection of GEORGETOWN WAY &amp; LIBERTY BELL DR in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-02-11T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 959218</name>
+		<address>PACIFIC HY 99W and SHERWOOD BLVD, Sherwood, OR</address>
+		<description>When: Wed, 3/12/2003 @ 9pm 
+Where: unknown distance from (Center) of intersection of PACIFIC HY 99W &amp; SHERWOOD BLVD in Sherwood
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-03-12T21:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 959362</name>
+		<address>WATERHOUSE AVE and 158TH AVE, Beaverton, OR</address>
+		<description>When: Thu, 3/27/2003 @ 4pm 
+Where: inside of (East) of intersection of WATERHOUSE AVE &amp; 158TH AVE in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-03-27T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 960224</name>
+		<address>ADAIR ST and 13TH AVE, Cornelius, OR</address>
+		<description>When: Fri, 3/28/2003 @ 2pm 
+Where: unknown distance from (Center) of intersection of ADAIR ST &amp; 13TH AVE in Cornelius
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-03-28T14:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 960203</name>
+		<address>LISA ST and 173RD AVE, Beaverton, OR</address>
+		<description>When: Tue, 4/1/2003 @ 8am 
+Where: inside of (East) of intersection of LISA ST &amp; 173RD AVE in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-04-01T08:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 962746</name>
+		<address>HELVETIA RD and WEST UNION RD, OR</address>
+		<description>When: Sat, 4/19/2003 @ 5pm 
+Where: inside of (Center) of intersection of HELVETIA RD &amp; WEST UNION RD in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-04-19T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 967302</name>
+		<address>BASELINE ST and 4TH AVE, Cornelius, OR</address>
+		<description>When: Sun, 5/18/2003 @ 12pm 
+Where: unknown distance from (Center) of intersection of BASELINE ST &amp; 4TH AVE in Cornelius
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-05-18T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 972680</name>
+		<address>DOGWOOD ST and 12TH AVE, Cornelius, OR</address>
+		<description>When: Mon, 6/2/2003 @ 8am 
+Where: inside of (Center) of intersection of DOGWOOD ST &amp; 12TH AVE in Cornelius
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-06-02T08:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 971910</name>
+		<address>HALL BLVD and METZ ST, Beaverton, OR</address>
+		<description>When: Fri, 6/20/2003 @ 5pm 
+Where: inside of (Center) of intersection of HALL BLVD &amp; METZ ST in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-06-20T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 973286</name>
+		<address>CAMBRAY ST and WALKER RD, Beaverton, OR</address>
+		<description>When: Fri, 7/18/2003 @ 7pm 
+Where: inside of (Center) of intersection of CAMBRAY ST &amp; WALKER RD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-07-18T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1022995</name>
+		<address>A ST and 19TH AVE, Forest Grove, OR</address>
+		<description>When: Tue, 7/22/2003 @ 11am 
+Where: inside of (South) of intersection of A ST &amp; 19TH AVE in Forest Grove
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-07-22T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1072878</name>
+		<address>BASELINE ST and 4TH AVE, Hillsboro, OR</address>
+		<description>When: Mon, 8/4/2003 @ 11am 
+Where: unknown distance from (Center) of intersection of BASELINE ST &amp; 4TH AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-08-04T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1072615</name>
+		<address>GREENWAY DR and HALL BLVD, Beaverton, OR</address>
+		<description>When: Mon, 8/4/2003 @ 6pm 
+Where: inside of (Center) of intersection of GREENWAY DR &amp; HALL BLVD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-08-04T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1076829</name>
+		<address>KATHRYN ST and 25TH AVE, Hillsboro, OR</address>
+		<description>When: Thu, 8/14/2003 @ 5pm 
+Where: inside of (Center) of intersection of KATHRYN ST &amp; 25TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-08-14T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1075273</name>
+		<address>CORNELIUS PASS RD and WEST UNION RD, Hillsboro, OR</address>
+		<description>When: Tue, 8/19/2003 @ 7am 
+Where: inside of (Center) of intersection of CORNELIUS PASS RD &amp; WEST UNION RD in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-08-19T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1074831</name>
+		<address>FARMINGTON RD and HALL BLVD, Beaverton, OR</address>
+		<description>When: Fri, 8/22/2003 @ 7pm 
+Where: inside of (Center) of intersection of FARMINGTON RD &amp; HALL BLVD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-08-22T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1077089</name>
+		<address>DURHAM RD and UPPER BOONES FERRY, Tigard, OR</address>
+		<description>When: Tue, 9/2/2003 @ 7am 
+Where: inside of (Center) of intersection of DURHAM RD &amp; UPPER BOONES FERRY in Tigard
+Details: Type: Other: [B]. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-09-02T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1080605</name>
+		<address>FARMINGTON RD and 194TH TER, OR</address>
+		<description>When: Fri, 9/12/2003 @ 3pm 
+Where: inside of (Center) of intersection of FARMINGTON RD &amp; 194TH TER in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-09-12T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1080746</name>
+		<address>BASELINE ST and DENNIS AVE, Hillsboro, OR</address>
+		<description>When: Mon, 9/15/2003 @ 4pm 
+Where: unknown distance from (Center) of intersection of BASELINE ST &amp; DENNIS AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-09-15T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1080880</name>
+		<address>WILKINS ST and 206TH AVE, Hillsboro, OR</address>
+		<description>When: Mon, 9/29/2003 @ 9pm 
+Where: inside of (Center) of intersection of WILKINS ST &amp; 206TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-09-29T21:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1085454</name>
+		<address>CEDARCREST ST and 77TH AVE, OR</address>
+		<description>When: Fri, 10/17/2003 @ 11am 
+Where: inside of (Center) of intersection of CEDARCREST ST &amp; 77TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-10-17T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1084101</name>
+		<address>B ST and WILLAMINA AVE, Forest Grove, OR</address>
+		<description>When: Thu, 10/23/2003 @ 7am 
+Where: inside of (North) of intersection of B ST &amp; WILLAMINA AVE in Forest Grove
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-10-23T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1085458</name>
+		<address>LOVEJOY ST and 88TH AVE, OR</address>
+		<description>When: Sat, 10/25/2003 @ 4pm 
+Where: inside of (Center) of intersection of LOVEJOY ST &amp; 88TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-10-25T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1086641</name>
+		<address>B ST and 23RD AVE, Forest Grove, OR</address>
+		<description>When: Tue, 11/4/2003 @ 3pm 
+Where: inside of (Center) of intersection of B ST &amp; 23RD AVE in Forest Grove
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-11-04T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1087126</name>
+		<address>CORNELL RD and MAIN ST, Hillsboro, OR</address>
+		<description>When: Mon, 11/10/2003 @ 4pm 
+Where: inside of (Center) of intersection of CORNELL RD &amp; MAIN ST in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-11-10T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1088622</name>
+		<address>TUALATIN-SHERWOOD and 95TH PL, Tualatin, OR</address>
+		<description>When: Mon, 11/17/2003 @ 12pm 
+Where: inside of (Center) of intersection of TUALATIN-SHERWOOD &amp; 95TH PL in Tualatin
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-11-17T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1090968</name>
+		<address>CASCADE BLVD and HALL BLVD, Beaverton, OR</address>
+		<description>When: Mon, 12/1/2003 @ 7pm 
+Where: unknown distance from (Center) of intersection of CASCADE BLVD &amp; HALL BLVD in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2003-12-01T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1098856</name>
+		<address>HALL BLVD and PACIFIC HY 99W, Tigard, OR</address>
+		<description>When: Sat, 1/24/2004 @ 6pm 
+Where: unknown distance from (Center) of intersection of HALL BLVD &amp; PACIFIC HY 99W in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-01-24T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1100978</name>
+		<address>HAWTHORNE ST and 19TH AVE, Forest Grove, OR</address>
+		<description>When: Wed, 2/4/2004 @ 6pm 
+Where: inside of (North) of intersection of HAWTHORNE ST &amp; 19TH AVE in Forest Grove
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-02-04T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1100455</name>
+		<address>LENORE CT and LEAHY TER, OR</address>
+		<description>When: Thu, 2/5/2004 @ 8am 
+Where: inside of (Northwest) of intersection of LENORE CT &amp; LEAHY TER in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-02-05T08:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1101331</name>
+		<address>CORNELL RD and 25TH AVE, Hillsboro, OR</address>
+		<description>When: Fri, 2/6/2004 @ 4pm 
+Where: inside of (Center) of intersection of CORNELL RD &amp; 25TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-02-06T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1101339</name>
+		<address>ALPINE ST and 4TH AVE, Cornelius, OR</address>
+		<description>When: Mon, 2/9/2004 @ 7am 
+Where: inside of (Center) of intersection of ALPINE ST &amp; 4TH AVE in Cornelius
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-02-09T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1101820</name>
+		<address>BASELINE ST and 10TH AVE, Hillsboro, OR</address>
+		<description>When: Thu, 2/19/2004 @ 6pm 
+Where: inside of (Center) of intersection of BASELINE ST &amp; 10TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-02-19T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1104211</name>
+		<address>BUTNER RD and WALKER RD, OR</address>
+		<description>When: Fri, 3/19/2004 @ 7am 
+Where: inside of (Center) of intersection of BUTNER RD &amp; WALKER RD in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-03-19T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1107717</name>
+		<address>WALNUT ST and 10TH AVE, Hillsboro, OR</address>
+		<description>When: Fri, 4/2/2004 @ 4pm 
+Where: unknown distance from (Center) of intersection of WALNUT ST &amp; 10TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-04-02T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1108625</name>
+		<address>FARMINGTON RD and 170TH AVE, OR</address>
+		<description>When: Sat, 4/10/2004 @ 5pm 
+Where: inside of (Center) of intersection of FARMINGTON RD &amp; 170TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-04-10T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1108219</name>
+		<address>CEDAR ST and 9TH AVE, Hillsboro, OR</address>
+		<description>When: Wed, 4/21/2004 @ 5pm 
+Where: inside of (South) of intersection of CEDAR ST &amp; 9TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-04-21T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1109246</name>
+		<address>BEAV-HILLSDALE HY and WESTERN AVE, Beaverton, OR</address>
+		<description>When: Fri, 4/23/2004 @ 7pm 
+Where: unknown distance from (Center) of intersection of BEAV-HILLSDALE HY &amp; WESTERN AVE in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-04-23T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1109470</name>
+		<address>PACIFIC HY 99W and PFAFFLE ST, Tigard, OR</address>
+		<description>When: Sat, 4/24/2004 @ 5pm 
+Where: unknown distance from (Center) of intersection of PACIFIC HY 99W &amp; PFAFFLE ST in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-04-24T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1108557</name>
+		<address>ALLEN BLVD and ERICKSON AVE, Beaverton, OR</address>
+		<description>When: Sun, 4/25/2004 @ 6pm 
+Where: inside of (West) of intersection of ALLEN BLVD &amp; ERICKSON AVE in Beaverton
+Details: Type: Other: [E]. Collision: Rear-End. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-04-25T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1109276</name>
+		<address>NYBERG RD and SB EX NYBERG RD C4, Tualatin, OR</address>
+		<description>When: Mon, 4/26/2004 @ 3pm 
+Where: unknown distance from (Center) of intersection of NYBERG RD &amp; SB EX NYBERG RD C4 in Tualatin
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-04-26T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1109172</name>
+		<address>MAIN ST and UNIVERSITY AVE, Forest Grove, OR</address>
+		<description>When: Mon, 4/26/2004 @ 7pm 
+Where: inside of (Center) of intersection of MAIN ST &amp; UNIVERSITY AVE in Forest Grove
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-04-26T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1109285</name>
+		<address>MINTER BRIDGE RD and TUALATIN VALLEY HY, Hillsboro, OR</address>
+		<description>When: Tue, 4/27/2004 @ 5pm 
+Where: unknown distance from (Center) of intersection of MINTER BRIDGE RD &amp; TUALATIN VALLEY HY in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-04-27T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1111339</name>
+		<address>TUALATIN-SHERWOOD and 89TH AVE, Tualatin, OR</address>
+		<description>When: Thu, 5/20/2004 @ 2pm 
+Where: inside of (Center) of intersection of TUALATIN-SHERWOOD &amp; 89TH AVE in Tualatin
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-05-20T14:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1112294</name>
+		<address>WALNUT ST and 10TH AVE, Hillsboro, OR</address>
+		<description>When: Sat, 5/22/2004 @ 6pm 
+Where: unknown distance from (Center) of intersection of WALNUT ST &amp; 10TH AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-05-22T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1113838</name>
+		<address>JAY ST and 204TH AVE, OR</address>
+		<description>When: Thu, 5/27/2004 @ 4pm 
+Where: inside of (Center) of intersection of JAY ST &amp; 204TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Parking Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-05-27T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1114396</name>
+		<address>BEAV-HILLSDALE HY and WESTERN AVE, Beaverton, OR</address>
+		<description>When: Tue, 6/15/2004 @ unknown time 
+Where: unknown distance from (Center) of intersection of BEAV-HILLSDALE HY &amp; WESTERN AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-06-15</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1114614</name>
+		<address>PARK WAY and PARKWOOD DR, OR</address>
+		<description>When: Fri, 6/18/2004 @ 8am 
+Where: inside of (Center) of intersection of PARK WAY &amp; PARKWOOD DR in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-06-18T08:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1114868</name>
+		<address>AMBERBROOK DR and CORNELL RD, Hillsboro, OR</address>
+		<description>When: Tue, 6/22/2004 @ 6pm 
+Where: inside of (Center) of intersection of AMBERBROOK DR &amp; CORNELL RD in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-06-22T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1114876</name>
+		<address>RIGERT RD and 185TH AVE, OR</address>
+		<description>When: Wed, 6/23/2004 @ 6am 
+Where: inside of (Center) of intersection of RIGERT RD &amp; 185TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-06-23T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1115277</name>
+		<address>VENETIAN DR and 194TH TER, Hillsboro, OR</address>
+		<description>When: Tue, 6/29/2004 @ 8pm 
+Where: inside of (Center) of intersection of VENETIAN DR &amp; 194TH TER in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-06-29T20:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1115982</name>
+		<address>NYBERG RD and SB EX NYBERG RD C4, Tualatin, OR</address>
+		<description>When: Fri, 7/2/2004 @ 8am 
+Where: unknown distance from (Center) of intersection of NYBERG RD &amp; SB EX NYBERG RD C4 in Tualatin
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-07-02T08:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1116210</name>
+		<address>PHEASANT LN and 185TH AVE, OR</address>
+		<description>When: Fri, 7/2/2004 @ 11am 
+Where: inside of (Center) of intersection of PHEASANT LN &amp; 185TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-07-02T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1117181</name>
+		<address>STEVE ST and 81ST AVE, Tigard, OR</address>
+		<description>When: Fri, 7/16/2004 @ 1pm 
+Where: inside of (West) of intersection of STEVE ST &amp; 81ST AVE in Tigard
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-07-16T13:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1119079</name>
+		<address>MCDONALD ST and PACIFIC HY 99W, Tigard, OR</address>
+		<description>When: Mon, 7/19/2004 @ 3pm 
+Where: unknown distance from (Center) of intersection of MCDONALD ST &amp; PACIFIC HY 99W in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-07-19T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1117860</name>
+		<address>BURTON ST and 143RD AVE, OR</address>
+		<description>When: Sat, 8/7/2004 @ 11am 
+Where: inside of (Center) of intersection of BURTON ST &amp; 143RD AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-08-07T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1122984</name>
+		<address>BEARD RD and OPAL DR, Beaverton, OR</address>
+		<description>When: Thu, 8/12/2004 @ 6pm 
+Where: inside of (Center) of intersection of BEARD RD &amp; OPAL DR in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-08-12T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1121204</name>
+		<address>MELINDA ST and 160TH AVE, Beaverton, OR</address>
+		<description>When: Sat, 9/4/2004 @ 3pm 
+Where: inside of (Center) of intersection of MELINDA ST &amp; 160TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-09-04T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1126022</name>
+		<address>WALNUT ST and 41ST AVE, Hillsboro, OR</address>
+		<description>When: Fri, 10/1/2004 @ 3pm 
+Where: inside of (Center) of intersection of WALNUT ST &amp; 41ST AVE in Hillsboro
+Details: Type: Bike. Collision: Miscellaneous. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-10-01T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1125834</name>
+		<address>HOCKEN AVE and MILLIKAN WAY, Beaverton, OR</address>
+		<description>When: Fri, 10/8/2004 @ 12pm 
+Where: inside of (Center) of intersection of HOCKEN AVE &amp; MILLIKAN WAY in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-10-08T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1126798</name>
+		<address>CORNELL RD and JOHN OLSEN AVE, Hillsboro, OR</address>
+		<description>When: Wed, 10/20/2004 @ 12pm 
+Where: inside of (Center) of intersection of CORNELL RD &amp; JOHN OLSEN AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-10-20T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1130445</name>
+		<address>DIVISION ST and 166TH AVE, OR</address>
+		<description>When: Tue, 11/2/2004 @ 5pm 
+Where: inside of (Center) of intersection of DIVISION ST &amp; 166TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-11-02T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1131831</name>
+		<address>BLANTON ST and 184TH AVE, OR</address>
+		<description>When: Wed, 11/10/2004 @ 6pm 
+Where: inside of (Center) of intersection of BLANTON ST &amp; 184TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-11-10T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1132841</name>
+		<address>ALLEN BLVD and 130TH AVE, Beaverton, OR</address>
+		<description>When: Thu, 11/18/2004 @ 5pm 
+Where: inside of (Center) of intersection of ALLEN BLVD &amp; 130TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-11-18T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1136216</name>
+		<address>WALKER RD and 185TH AVE, Hillsboro, OR</address>
+		<description>When: Sat, 12/4/2004 @ 6pm 
+Where: inside of (Center) of intersection of WALKER RD &amp; 185TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-12-04T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1136227</name>
+		<address>WASHINGTON ST and 12TH AVE, Hillsboro, OR</address>
+		<description>When: Mon, 12/6/2004 @ 9am 
+Where: inside of (Center) of intersection of WASHINGTON ST &amp; 12TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-12-06T09:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1135826</name>
+		<address>HOCKEN AVE and TUALATIN VALLEY HY, Beaverton, OR</address>
+		<description>When: Fri, 12/17/2004 @ 7pm 
+Where: unknown distance from (Center) of intersection of HOCKEN AVE &amp; TUALATIN VALLEY HY in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2004-12-17T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1142070</name>
+		<address>RIVER RD and TUALATIN VALLEY HY, Hillsboro, OR</address>
+		<description>When: Tue, 2/8/2005 @ 3pm 
+Where: unknown distance from (Center) of intersection of RIVER RD &amp; TUALATIN VALLEY HY in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-02-08T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1142682</name>
+		<address>TIEDEMAN AVE and TIGARD ST, Tigard, OR</address>
+		<description>When: Wed, 2/23/2005 @ 4pm 
+Where: inside of (North) of intersection of TIEDEMAN AVE &amp; TIGARD ST in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-02-23T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1142808</name>
+		<address>CORNELL RD and 185TH AVE, Hillsboro, OR</address>
+		<description>When: Thu, 2/24/2005 @ 9pm 
+Where: inside of (South) of intersection of CORNELL RD &amp; 185TH AVE in Hillsboro
+Details: Type: Bike. Collision: Sideswipe-overtaking. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-02-24T21:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1143793</name>
+		<address>HAWTHORNE ST and 19TH AVE, Forest Grove, OR</address>
+		<description>When: Tue, 3/1/2005 @ 9pm 
+Where: inside of (Center) of intersection of HAWTHORNE ST &amp; 19TH AVE in Forest Grove
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-03-01T21:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1152575</name>
+		<address>SCHOLLS FERRY RD and 147TH TER, Beaverton, OR</address>
+		<description>When: Mon, 3/14/2005 @ 12pm 
+Where: inside of (Center) of intersection of SCHOLLS FERRY RD &amp; 147TH TER in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-03-14T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1148808</name>
+		<address>ADAMS AVE and OAK ST, Hillsboro, OR</address>
+		<description>When: Mon, 3/21/2005 @ 1pm 
+Where: unknown distance from (Center) of intersection of ADAMS AVE &amp; OAK ST in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-03-21T13:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1148377</name>
+		<address>MAVERICK TER and MURRAY BLVD, Beaverton, OR</address>
+		<description>When: Mon, 4/18/2005 @ 6am 
+Where: inside of (Center) of intersection of MAVERICK TER &amp; MURRAY BLVD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-04-18T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1148993</name>
+		<address>CORNELIUS PASS RD and 01337 UNKNOWN NAME, Hillsboro, OR</address>
+		<description>When: Tue, 4/19/2005 @ 3pm 
+Where: inside of (East) of intersection of CORNELIUS PASS RD &amp; 01337 UNKNOWN NAME in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-04-19T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1151256</name>
+		<address>CEDAR HILLS BLVD and FARMINGTON RD, Beaverton, OR</address>
+		<description>When: Sat, 5/7/2005 @ 4pm 
+Where: inside of (Center) of intersection of CEDAR HILLS BLVD &amp; FARMINGTON RD in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-05-07T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1152136</name>
+		<address>TREVOR LN and SUGARBERRY TER, OR</address>
+		<description>When: Thu, 5/12/2005 @ 7pm 
+Where: inside of (Center) of intersection of TREVOR LN &amp; SUGARBERRY TER in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-05-12T19:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1153327</name>
+		<address>185TH AVE and WB EX 185TH AVE C5, Hillsboro, OR</address>
+		<description>When: Sat, 5/14/2005 @ 12am 
+Where: unknown distance from (Center) of intersection of 185TH AVE &amp; WB EX 185TH AVE C5 in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-05-14T00:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1179658</name>
+		<address>DOWNING ST and 141ST AVE, Beaverton, OR</address>
+		<description>When: Sat, 5/14/2005 @ 2pm 
+Where: inside of (Center) of intersection of DOWNING ST &amp; 141ST AVE in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-05-14T14:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1150908</name>
+		<address>MURRAY BLVD and RITA DR, OR</address>
+		<description>When: Sun, 5/15/2005 @ 5pm 
+Where: inside of (Center) of intersection of MURRAY BLVD &amp; RITA DR in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-05-15T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1153776</name>
+		<address>NYBERG RD and SB EX NYBERG RD C4, Tualatin, OR</address>
+		<description>When: Tue, 5/17/2005 @ 2pm 
+Where: unknown distance from (Center) of intersection of NYBERG RD &amp; SB EX NYBERG RD C4 in Tualatin
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-05-17T14:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1151425</name>
+		<address>WASHINGTON ST and 3RD ST, Sherwood, OR</address>
+		<description>When: Mon, 5/23/2005 @ 7am 
+Where: inside of (North) of intersection of WASHINGTON ST &amp; 3RD ST in Sherwood
+Details: Type: Bike. Collision: Head-On. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-05-23T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1151698</name>
+		<address>OLESON RD and SCHOLLS FERRY RD, OR</address>
+		<description>When: Tue, 5/24/2005 @ 7am 
+Where: inside of (Center) of intersection of OLESON RD &amp; SCHOLLS FERRY RD in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-05-24T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1151726</name>
+		<address>CORNELL RD and 21ST AVE, Hillsboro, OR</address>
+		<description>When: Tue, 5/31/2005 @ 3pm 
+Where: inside of (Center) of intersection of CORNELL RD &amp; 21ST AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-05-31T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1155468</name>
+		<address>CORNELL RD and 231ST AVE, Hillsboro, OR</address>
+		<description>When: Mon, 6/6/2005 @ 8pm 
+Where: inside of (South) of intersection of CORNELL RD &amp; 231ST AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-06-06T20:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1154476</name>
+		<address>WALKER RD and 185TH AVE, Hillsboro, OR</address>
+		<description>When: Tue, 6/7/2005 @ 5am 
+Where: inside of (Center) of intersection of WALKER RD &amp; 185TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-06-07T05:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1155968</name>
+		<address>HALL BLVD and MCDONALD ST, Tigard, OR</address>
+		<description>When: Wed, 6/8/2005 @ 4pm 
+Where: inside of (Center) of intersection of HALL BLVD &amp; MCDONALD ST in Tigard
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-06-08T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1156202</name>
+		<address>FARMINGTON RD and HOCKEN AVE, Beaverton, OR</address>
+		<description>When: Tue, 6/14/2005 @ 3pm 
+Where: inside of (Center) of intersection of FARMINGTON RD &amp; HOCKEN AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-06-14T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1159674</name>
+		<address>TUALATIN-SHERWOOD and WILDROSE PL, Sherwood, OR</address>
+		<description>When: Sat, 6/18/2005 @ 6am 
+Where: inside of (Center) of intersection of TUALATIN-SHERWOOD &amp; WILDROSE PL in Sherwood
+Details: Type: Bike. Collision: Rear-End. Severity: Fatal.
+</description>
+		<TimeStamp><when>2005-06-18T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1156164</name>
+		<address>ALLEN BLVD and ALGER AVE, Beaverton, OR</address>
+		<description>When: Mon, 6/20/2005 @ 5pm 
+Where: inside of (Center) of intersection of ALLEN BLVD &amp; ALGER AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-06-20T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1159344</name>
+		<address>CORNELL RD and TURNER DR, Hillsboro, OR</address>
+		<description>When: Mon, 7/11/2005 @ 1pm 
+Where: inside of (Center) of intersection of CORNELL RD &amp; TURNER DR in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-07-11T13:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1159489</name>
+		<address>TUALATIN VLY HY and YEW ST, Forest Grove, OR</address>
+		<description>When: Wed, 7/13/2005 @ 5pm 
+Where: unknown distance from (Center) of intersection of TUALATIN VLY HY &amp; YEW ST in Forest Grove
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-07-13T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1159850</name>
+		<address>ELM AVE and SCHOLLS FERRY RD, Beaverton, OR</address>
+		<description>When: Wed, 7/20/2005 @ 8am 
+Where: inside of (Center) of intersection of ELM AVE &amp; SCHOLLS FERRY RD in Beaverton
+Details: Type: Bike. Collision: Miscellaneous. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-07-20T08:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1157636</name>
+		<address>ELLIGSEN RD and 65TH AVE, OR</address>
+		<description>When: Mon, 7/25/2005 @ 6pm 
+Where: inside of (Center) of intersection of ELLIGSEN RD &amp; 65TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-07-25T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1162928</name>
+		<address>BETHANY CT and CORNELL RD, Beaverton, OR</address>
+		<description>When: Thu, 8/4/2005 @ 1pm 
+Where: unknown distance from (Center) of intersection of BETHANY CT &amp; CORNELL RD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-08-04T13:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1163889</name>
+		<address>ALLEN BLVD and ERICKSON AVE, Beaverton, OR</address>
+		<description>When: Wed, 8/24/2005 @ 8pm 
+Where: inside of (Center) of intersection of ALLEN BLVD &amp; ERICKSON AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-08-24T20:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1163625</name>
+		<address>BRONSON RD and 185TH AVE, Hillsboro, OR</address>
+		<description>When: Fri, 8/26/2005 @ 10pm 
+Where: inside of (West) of intersection of BRONSON RD &amp; 185TH AVE in Hillsboro
+Details: Type: Bike. Collision: Miscellaneous. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-08-26T22:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1164954</name>
+		<address>TUALATIN VALLEY HY and 48TH AVE, Hillsboro, OR</address>
+		<description>When: Tue, 8/30/2005 @ 5am 
+Where: unknown distance from (Center) of intersection of TUALATIN VALLEY HY &amp; 48TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-08-30T05:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1166737</name>
+		<address>BLUERIDGE DR and 158TH AVE, Beaverton, OR</address>
+		<description>When: Tue, 9/6/2005 @ 7am 
+Where: inside of (Center) of intersection of BLUERIDGE DR &amp; 158TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-09-06T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1166513</name>
+		<address>GREENWAY DR and HALL BLVD, Beaverton, OR</address>
+		<description>When: Wed, 9/7/2005 @ 7am 
+Where: inside of (Center) of intersection of GREENWAY DR &amp; HALL BLVD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-09-07T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1167434</name>
+		<address>B ST and PACIFIC AVE, Forest Grove, OR</address>
+		<description>When: Fri, 9/30/2005 @ 8pm 
+Where: inside of (Center) of intersection of B ST &amp; PACIFIC AVE in Forest Grove
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-09-30T20:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1178657</name>
+		<address>MAIN ST and 18TH AVE, Hillsboro, OR</address>
+		<description>When: Thu, 10/6/2005 @ 8am 
+Where: inside of (North) of intersection of MAIN ST &amp; 18TH AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-10-06T08:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1177236</name>
+		<address>ALLEN BLVD and WILSON AVE, Beaverton, OR</address>
+		<description>When: Sun, 10/9/2005 @ 10am 
+Where: inside of (South) of intersection of ALLEN BLVD &amp; WILSON AVE in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-10-09T10:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1178136</name>
+		<address>BASELINE RD and CORNELIUS PASS RD, Hillsboro, OR</address>
+		<description>When: Tue, 10/18/2005 @ 6am 
+Where: inside of (Center) of intersection of BASELINE RD &amp; CORNELIUS PASS RD in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-10-18T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1178130</name>
+		<address>FARMINGTON RD and 141ST AVE, Beaverton, OR</address>
+		<description>When: Tue, 10/18/2005 @ 8am 
+Where: inside of (Center) of intersection of FARMINGTON RD &amp; 141ST AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-10-18T08:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1178347</name>
+		<address>OAK ST and 170TH AVE, OR</address>
+		<description>When: Sat, 10/22/2005 @ 12pm 
+Where: inside of (Center) of intersection of OAK ST &amp; 170TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-10-22T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1178350</name>
+		<address>TANASBOURNE DR and 185TH AVE, Hillsboro, OR</address>
+		<description>When: Tue, 10/25/2005 @ 6pm 
+Where: inside of (Center) of intersection of TANASBOURNE DR &amp; 185TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-10-25T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1181085</name>
+		<address>AUGUSTA LN and 170TH AVE, Beaverton, OR</address>
+		<description>When: Fri, 11/4/2005 @ 6am 
+Where: inside of (Center) of intersection of AUGUSTA LN &amp; 170TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-11-04T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1182054</name>
+		<address>BRACKENWOOD LN and 206TH AVE, OR</address>
+		<description>When: Sun, 11/6/2005 @ 3pm 
+Where: inside of (Center) of intersection of BRACKENWOOD LN &amp; 206TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-11-06T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1179656</name>
+		<address>LOMBARD AVE and 1ST ST, Beaverton, OR</address>
+		<description>When: Mon, 11/14/2005 @ 2pm 
+Where: inside of (Center) of intersection of LOMBARD AVE &amp; 1ST ST in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-11-14T14:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1181718</name>
+		<address>EIDER CT and 185TH AVE, Hillsboro, OR</address>
+		<description>When: Fri, 11/18/2005 @ 3pm 
+Where: inside of (Center) of intersection of EIDER CT &amp; 185TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-11-18T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1182389</name>
+		<address>FARMINGTON RD and MAIN AVE, Beaverton, OR</address>
+		<description>When: Tue, 11/29/2005 @ 11am 
+Where: inside of (Center) of intersection of FARMINGTON RD &amp; MAIN AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-11-29T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1172463</name>
+		<address>TUCKER AVE and 1ST ST, Beaverton, OR</address>
+		<description>When: Fri, 12/2/2005 @ 3pm 
+Where: inside of (Center) of intersection of TUCKER AVE &amp; 1ST ST in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-12-02T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1173088</name>
+		<address>BARDEEN DR and JENKINS RD, Beaverton, OR</address>
+		<description>When: Sat, 12/17/2005 @ 6am 
+Where: inside of (Center) of intersection of BARDEEN DR &amp; JENKINS RD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-12-17T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1173936</name>
+		<address>ALLEN BLVD and LOMBARD AVE, Beaverton, OR</address>
+		<description>When: Sat, 12/31/2005 @ 6pm 
+Where: inside of (Center) of intersection of ALLEN BLVD &amp; LOMBARD AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2005-12-31T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1183457</name>
+		<address>NYBERG RD and SB EX NYBERG RD C4, Tualatin, OR</address>
+		<description>When: Thu, 1/5/2006 @ 5am 
+Where: unknown distance from (Center) of intersection of NYBERG RD &amp; SB EX NYBERG RD C4 in Tualatin
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-01-05T05:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1188040</name>
+		<address>OAK ST and PACIFIC AVE, Forest Grove, OR</address>
+		<description>When: Tue, 2/7/2006 @ 4pm 
+Where: inside of (Center) of intersection of OAK ST &amp; PACIFIC AVE in Forest Grove
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-02-07T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1186969</name>
+		<address>CORNELIUS PASS RD and JACOBSON RD, OR</address>
+		<description>When: Tue, 2/14/2006 @ 5pm 
+Where: inside of (Center) of intersection of CORNELIUS PASS RD &amp; JACOBSON RD in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-02-14T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1188994</name>
+		<address>ALLEN BLVD and ALGER AVE, Beaverton, OR</address>
+		<description>When: Thu, 3/2/2006 @ 4pm 
+Where: inside of (Center) of intersection of ALLEN BLVD &amp; ALGER AVE in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-03-02T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1189521</name>
+		<address>TUALATIN RD and 115TH AVE, Tualatin, OR</address>
+		<description>When: Sat, 3/4/2006 @ 4pm 
+Where: inside of (North) of intersection of TUALATIN RD &amp; 115TH AVE in Tualatin
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-03-04T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1190322</name>
+		<address>CEDAR HILLS BLVD and TUALATIN VALLEY HY, Beaverton, OR</address>
+		<description>When: Fri, 3/10/2006 @ 4pm 
+Where: unknown distance from (Center) of intersection of CEDAR HILLS BLVD &amp; TUALATIN VALLEY HY in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-03-10T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1192101</name>
+		<address>ADAMS AVE and OAK ST, Hillsboro, OR</address>
+		<description>When: Fri, 3/24/2006 @ 10am 
+Where: unknown distance from (Center) of intersection of ADAMS AVE &amp; OAK ST in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-03-24T10:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1194040</name>
+		<address>QUINCE ST and 24TH AVE, Forest Grove, OR</address>
+		<description>When: Wed, 4/12/2006 @ 5pm 
+Where: unknown distance from (Center) of intersection of QUINCE ST &amp; 24TH AVE in Forest Grove
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-04-12T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1195702</name>
+		<address>HALL BLVD and PACIFIC HY 99W, Tigard, OR</address>
+		<description>When: Sat, 4/22/2006 @ 7am 
+Where: unknown distance from (Center) of intersection of HALL BLVD &amp; PACIFIC HY 99W in Tigard
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-04-22T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1194730</name>
+		<address>ALLEN BLVD and 92ND AVE, Beaverton, OR</address>
+		<description>When: Wed, 4/26/2006 @ 6pm 
+Where: inside of (South) of intersection of ALLEN BLVD &amp; 92ND AVE in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-04-26T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1203353</name>
+		<address>ECOLE AVE and JENKINS RD, Beaverton, OR</address>
+		<description>When: Sun, 4/30/2006 @ 5pm 
+Where: inside of (Center) of intersection of ECOLE AVE &amp; JENKINS RD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-04-30T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1196898</name>
+		<address>CENTURY DR and SHERWOOD BLVD, Sherwood, OR</address>
+		<description>When: Tue, 5/2/2006 @ 10am 
+Where: inside of (East) of intersection of CENTURY DR &amp; SHERWOOD BLVD in Sherwood
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-05-02T10:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1196570</name>
+		<address>ALLEN BLVD and HALL BLVD, Beaverton, OR</address>
+		<description>When: Fri, 5/5/2006 @ 1pm 
+Where: inside of (South) of intersection of ALLEN BLVD &amp; HALL BLVD in Beaverton
+Details: Type: Bike. Collision: Sideswipe-overtaking. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-05-05T13:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1198252</name>
+		<address>BEAV-HILLSDALE HY and 107TH AVE, Beaverton, OR</address>
+		<description>When: Mon, 5/15/2006 @ 6pm 
+Where: unknown distance from (Center) of intersection of BEAV-HILLSDALE HY &amp; 107TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-05-15T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1198232</name>
+		<address>DEERFIELD WAY and WEST UNION RD, OR</address>
+		<description>When: Wed, 5/17/2006 @ 8am 
+Where: inside of (Center) of intersection of DEERFIELD WAY &amp; WEST UNION RD in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-05-17T08:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1198643</name>
+		<address>BORCHERS DR and ROY ROGERS RD, Sherwood, OR</address>
+		<description>When: Tue, 5/30/2006 @ 3pm 
+Where: inside of (Center) of intersection of BORCHERS DR &amp; ROY ROGERS RD in Sherwood
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-05-30T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1203036</name>
+		<address>TOWN CENTER DR and 185TH AVE, Hillsboro, OR</address>
+		<description>When: Tue, 6/6/2006 @ 4pm 
+Where: inside of (East) of intersection of TOWN CENTER DR &amp; 185TH AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-06-06T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1204250</name>
+		<address>HOLCOMB DR and LAIDLAW RD, OR</address>
+		<description>When: Fri, 6/9/2006 @ 3pm 
+Where: inside of (West) of intersection of HOLCOMB DR &amp; LAIDLAW RD in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-06-09T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1203996</name>
+		<address>DIVISION ST and MAIN ST, Sherwood, OR</address>
+		<description>When: Wed, 6/14/2006 @ 12pm 
+Where: inside of (Center) of intersection of DIVISION ST &amp; MAIN ST in Sherwood
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-06-14T12:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1203673</name>
+		<address>MURRAY BLVD and RITA DR, Beaverton, OR</address>
+		<description>When: Mon, 6/19/2006 @ 6am 
+Where: inside of (Southeast) of intersection of MURRAY BLVD &amp; RITA DR in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-06-19T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1203667</name>
+		<address>TOWN CENTER DR and 185TH AVE, Hillsboro, OR</address>
+		<description>When: Mon, 6/19/2006 @ 5pm 
+Where: inside of (Center) of intersection of TOWN CENTER DR &amp; 185TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-06-19T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1204112</name>
+		<address>CORNELL RD and STUCKI AVE, Hillsboro, OR</address>
+		<description>When: Tue, 6/20/2006 @ 1pm 
+Where: inside of (North) of intersection of CORNELL RD &amp; STUCKI AVE in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-06-20T13:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1204256</name>
+		<address>KINNEY ST and 13TH DR, Hillsboro, OR</address>
+		<description>When: Wed, 6/21/2006 @ 10am 
+Where: inside of (Center) of intersection of KINNEY ST &amp; 13TH DR in Hillsboro
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-06-21T10:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1204229</name>
+		<address>HALL BLVD and OAK ST, Tigard, OR</address>
+		<description>When: Fri, 6/23/2006 @ 5pm 
+Where: unknown distance from (Center) of intersection of HALL BLVD &amp; OAK ST in Tigard
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-06-23T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1204207</name>
+		<address>JOHNSON ST and 204TH AVE, OR</address>
+		<description>When: Sat, 6/24/2006 @ 8pm 
+Where: inside of (Center) of intersection of JOHNSON ST &amp; 204TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-06-24T20:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1205459</name>
+		<address>FARMINGTON RD and TUCKER AVE, Beaverton, OR</address>
+		<description>When: Tue, 7/18/2006 @ 1pm 
+Where: inside of (South) of intersection of FARMINGTON RD &amp; TUCKER AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-07-18T13:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1203557</name>
+		<address>DURHAM RD and 108TH AVE, Tigard, OR</address>
+		<description>When: Tue, 7/18/2006 @ 5pm 
+Where: inside of (Center) of intersection of DURHAM RD &amp; 108TH AVE in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-07-18T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1205468</name>
+		<address>MURRAY BLVD and WEIR RD, Beaverton, OR</address>
+		<description>When: Wed, 7/19/2006 @ 9pm 
+Where: inside of (Center) of intersection of MURRAY BLVD &amp; WEIR RD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-07-19T21:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1207696</name>
+		<address>BEARD RD and MURRAY BLVD, Beaverton, OR</address>
+		<description>When: Wed, 7/26/2006 @ 5pm 
+Where: inside of (Center) of intersection of BEARD RD &amp; MURRAY BLVD in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-07-26T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1219088</name>
+		<address>GERDA LN and TUALATIN-SHERWOOD, Sherwood, OR</address>
+		<description>When: Thu, 7/27/2006 @ 7am 
+Where: inside of (North) of intersection of GERDA LN &amp; TUALATIN-SHERWOOD in Sherwood
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-07-27T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1221111</name>
+		<address>WASHINGTON AVE and 5TH ST, Beaverton, OR</address>
+		<description>When: Tue, 8/1/2006 @ 6pm 
+Where: inside of (South) of intersection of WASHINGTON AVE &amp; 5TH ST in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Fatal.
+</description>
+		<TimeStamp><when>2006-08-01T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1205886</name>
+		<address>CASCADE AVE and SCHOLLS FERRY RD, Tigard, OR</address>
+		<description>When: Tue, 8/1/2006 @ 9pm 
+Where: unknown distance from (Center) of intersection of CASCADE AVE &amp; SCHOLLS FERRY RD in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-08-01T21:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1208571</name>
+		<address>MCDONALD ST and PACIFIC HY 99W, Tigard, OR</address>
+		<description>When: Sat, 8/5/2006 @ 1pm 
+Where: unknown distance from (Center) of intersection of MCDONALD ST &amp; PACIFIC HY 99W in Tigard
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-08-05T13:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1207228</name>
+		<address>DURHAM RD and 113TH AVE, Tigard, OR</address>
+		<description>When: Fri, 8/11/2006 @ 5pm 
+Where: inside of (South) of intersection of DURHAM RD &amp; 113TH AVE in Tigard
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-08-11T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1207705</name>
+		<address>MAIN ST and UNIVERSITY AVE, Forest Grove, OR</address>
+		<description>When: Wed, 8/16/2006 @ 8pm 
+Where: inside of (East) of intersection of MAIN ST &amp; UNIVERSITY AVE in Forest Grove
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-08-16T20:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1210650</name>
+		<address>GERMANTOWN RD and 185TH AVE, OR</address>
+		<description>When: Tue, 9/5/2006 @ 5pm 
+Where: inside of (Center) of intersection of GERMANTOWN RD &amp; 185TH AVE in Outside City Limits
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-09-05T17:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1217696</name>
+		<address>CEDAR HILLS BLVD and CELESTE LN, Beaverton, OR</address>
+		<description>When: Fri, 9/8/2006 @ 2pm 
+Where: inside of (Center) of intersection of CEDAR HILLS BLVD &amp; CELESTE LN in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-09-08T14:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1210496</name>
+		<address>LOWER BOONES FERRY and 72ND AVE, Tualatin, OR</address>
+		<description>When: Wed, 9/13/2006 @ 1pm 
+Where: unknown distance from (Center) of intersection of LOWER BOONES FERRY &amp; 72ND AVE in Tualatin
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-09-13T13:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1227402</name>
+		<address>WEST UNION RD and WEST UNION S SPUR, OR</address>
+		<description>When: Fri, 9/15/2006 @ 6pm 
+Where: inside of (Center) of intersection of WEST UNION RD &amp; WEST UNION S SPUR in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Fatal.
+</description>
+		<TimeStamp><when>2006-09-15T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1211712</name>
+		<address>CORNELL RD and WALBRIDGE ST, Hillsboro, OR</address>
+		<description>When: Wed, 9/20/2006 @ 6am 
+Where: inside of (Center) of intersection of CORNELL RD &amp; WALBRIDGE ST in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-09-20T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1212247</name>
+		<address>BEAV-HILLSDALE HY and 96TH AVE, Beaverton, OR</address>
+		<description>When: Wed, 9/27/2006 @ 6am 
+Where: unknown distance from (Center) of intersection of BEAV-HILLSDALE HY &amp; 96TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-09-27T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1212643</name>
+		<address>ASH ST and 19TH AVE, Forest Grove, OR</address>
+		<description>When: Fri, 9/29/2006 @ 4pm 
+Where: inside of (Center) of intersection of ASH ST &amp; 19TH AVE in Forest Grove
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-09-29T16:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1212655</name>
+		<address>CEDAR HILLS BLVD and WALKER RD, Beaverton, OR</address>
+		<description>When: Wed, 10/4/2006 @ 9pm 
+Where: inside of (Center) of intersection of CEDAR HILLS BLVD &amp; WALKER RD in Beaverton
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-10-04T21:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1210542</name>
+		<address>FLORENCE ST and 173RD AVE, OR</address>
+		<description>When: Thu, 10/5/2006 @ 6pm 
+Where: inside of (Center) of intersection of FLORENCE ST &amp; 173RD AVE in Outside City Limits
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-10-05T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1213422</name>
+		<address>GRANT ST and 28TH AVE, Hillsboro, OR</address>
+		<description>When: Tue, 10/10/2006 @ 8am 
+Where: inside of (Center) of intersection of GRANT ST &amp; 28TH AVE in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-10-10T08:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1213964</name>
+		<address>BROOKWOOD AVE and TUALATIN VALLEY HY, Hillsboro, OR</address>
+		<description>When: Thu, 10/19/2006 @ 7am 
+Where: inside of (North) of intersection of BROOKWOOD AVE &amp; TUALATIN VALLEY HY in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-10-19T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1213693</name>
+		<address>GEMINI DR and NIMBUS AVE, Beaverton, OR</address>
+		<description>When: Thu, 10/19/2006 @ 6pm 
+Where: inside of (Center) of intersection of GEMINI DR &amp; NIMBUS AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-10-19T18:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1213740</name>
+		<address>149TH AVE and 6TH ST, Beaverton, OR</address>
+		<description>When: Fri, 10/20/2006 @ 10pm 
+Where: inside of (Center) of intersection of 149TH AVE &amp; 6TH ST in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-10-20T22:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1216498</name>
+		<address>BOONES FERRY RD and TUALATIN RD, Tualatin, OR</address>
+		<description>When: Sun, 10/22/2006 @ 11am 
+Where: inside of (East) of intersection of BOONES FERRY RD &amp; TUALATIN RD in Tualatin
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-10-22T11:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1219633</name>
+		<address>CYPRESS ST and TUALATIN VALLEY HY, Hillsboro, OR</address>
+		<description>When: Mon, 11/6/2006 @ 3pm 
+Where: unknown distance from (Center) of intersection of CYPRESS ST &amp; TUALATIN VALLEY HY in Hillsboro
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-11-06T15:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1223370</name>
+		<address>HERMAN RD and TETON AVE, Tualatin, OR</address>
+		<description>When: Fri, 11/10/2006 @ 6am 
+Where: inside of (Center) of intersection of HERMAN RD &amp; TETON AVE in Tualatin
+Details: Type: Bike. Collision: Angle. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-11-10T06:00:00-08:00</when></TimeStamp>
+	</Placemark>
+	<Placemark>
+		<name>ID: 1224890</name>
+		<address>ALLEN BLVD and 107TH AVE, Beaverton, OR</address>
+		<description>When: Fri, 12/22/2006 @ 7am 
+Where: unknown distance from (Center) of intersection of ALLEN BLVD &amp; 107TH AVE in Beaverton
+Details: Type: Bike. Collision: Turning Movement. Severity: Injury.
+</description>
+		<TimeStamp><when>2006-12-22T07:00:00-08:00</when></TimeStamp>
+	</Placemark>
+
+</Folder>
+</kml>
+
