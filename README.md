@@ -8,11 +8,12 @@ Seems pretty useful though, so it is now available for general use.
 The code was developed and tested with the following:
 
 * 'pandoc' for creating documentation
-* 'ghc' (Glasgow Haskell Compiler) 
+* 'ghc' (Glasgow Haskell Compiler)
 
 ## Documentation
 
-Run `make report` to build the report.html file.
+The full report is available at the [crashmapper project page](http://techieshark.github.com/crashmapper).
+Or, to rebuild report.html, run `make report`.
 
 ## Creating the map file
 
@@ -22,7 +23,7 @@ Run `cd code; make kml` to produce the mapfile at `code/output/krashes.kml`.
 
 Load `code/output/krashes.kml` in [Google Earth](http://earth.google.com "Download Google Earth").
 
-## Contributors 
+## Contributors
 
 Cody by Peter W (@techieshark). Data from the [ODOT Crash Analysis & Reporting Unit](http://www.oregon.gov/ODOT/TD/TDATA/car/CAR_Main.shtml).
 
