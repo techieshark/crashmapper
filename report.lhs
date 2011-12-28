@@ -447,4 +447,4 @@ As cool as it is, there is a long list of improvements that could be made to the
 
 Appendix: Code
 ----------------------
-All of the source code is [available here](./code/).
+All of the source code is [available here](http://github.com/techieshark/crashmapper).
