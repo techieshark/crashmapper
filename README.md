@@ -16,10 +16,7 @@ Run `make report` to build the report.html file.
 
 ## Creating the map file
 
-Running the following should produce code/output/krashes.kml
-
-    cd code
-    make kml
+Run `cd code; make kml` to produce the mapfile at `code/output/krashes.kml`.
 
 ## Viewing the map
 
@@ -27,8 +24,7 @@ Load `code/output/krashes.kml` in [Google Earth](http://earth.google.com "Downlo
 
 ## Contributors 
 
-Cody by Peter W (@techieshark). 
-Data from the [ODOT Crash Analysis & Reporting Unit](http://www.oregon.gov/ODOT/TD/TDATA/car/CAR_Main.shtml).
+Cody by Peter W (@techieshark). Data from the [ODOT Crash Analysis & Reporting Unit](http://www.oregon.gov/ODOT/TD/TDATA/car/CAR_Main.shtml).
 
 ## License
 
