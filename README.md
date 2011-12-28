@@ -10,9 +10,25 @@ The code was developed and tested with the following:
 * 'pandoc' for creating documentation
 * 'ghc' (Glasgow Haskell Compiler) 
 
+## Documentation
+
+Run `make report` to build the report.html file.
+
+## Creating the map file
+
+Running the following should produce code/output/krashes.kml
+
+    cd code
+    make kml
+
+## Viewing the map
+
+Load `code/output/krashes.kml` in [Google Earth](http://earth.google.com "Download Google Earth").
+
 ## Contributors 
 
-Authored by Peter W (@techieshark). 
+Cody by Peter W (@techieshark). 
+Data from the [ODOT Crash Analysis & Reporting Unit](http://www.oregon.gov/ODOT/TD/TDATA/car/CAR_Main.shtml).
 
 ## License
 
